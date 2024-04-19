@@ -9,7 +9,7 @@
 
 
 
-<img src="Logos.png" style="zoom:60%;" />
+<img src="Logos.png" style="zoom:55%;" />
 
 
 <br/>
