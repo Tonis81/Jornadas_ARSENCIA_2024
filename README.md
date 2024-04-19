@@ -11,7 +11,7 @@
 <br/>
 
 
-<img src="Logos.png" style="zoom:80%;" />
+<img src="Logos.png" style="zoom:60%;" />
 
 
 <br/>
