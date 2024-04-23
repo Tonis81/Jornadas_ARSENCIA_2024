@@ -4,7 +4,9 @@
 
 
 
-## <span style="color:darkblue; font-size: larger">**28 y 29 de noviembre de 2024 en el Aula Magna en Elche - Universidad Miguel Hernández**</span>
+## <span style="color:darkblue; font-size: larger">**28 y 29 de noviembre de 2024 en el [Aula Magna](https://maps.app.goo.gl/tkF3bYfJ57GDMJ846) en Elche**</span>
+
+## <span style="color:darkblue; font-size: larger">**Universidad Miguel Hernández**</span>
 
 
 
@@ -52,8 +54,8 @@
 >
 > Leyre Notario Barandiaran - [Leyre.Notario.Barandiaran@dartmouth.edu](mailto:Leyre.Notario.Barandiaran@dartmouth.edu)
 
+<br/>
 
-
-> # **Enlaces de interés:**
+> ## **Enlaces de interés:**
 >
 > [EPINUT](https:XXXXXXX)
