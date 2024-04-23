@@ -4,6 +4,10 @@
 
 
 
+## <span style="color:darkblue; font-size: larger">**28 y 29 de noviembre de 2024 en el Aula Magna en Elche - Universidad Miguel Hernández**</span>
+
+
+
 <img src="Image Intro.png" style="zoom:80%;" />
 
 
@@ -18,7 +22,7 @@
 
 > ## **Comité organizador**:
 >
-> [Laura Torres Collado](l.torres@umh.es)
+> [Laura Torres Collado]() - [l.torres@umh.es](mailto:l.torres@umh.es)
 >
 > Alejandro Oncina Canovas - [aoncina@umh.es](mailto:aoncina@umh.es)
 >
@@ -42,7 +46,11 @@
 
 > ## **Comité científico**:
 >
-> Laura Torres Collado - [l.torres@umh.es](mailto:l.torres@umh.es)
+> Pablo Martinez Camblor - [Pablo.Martinez-Camblor@hitchcock.org](mailto:Pablo.Martinez-Camblor@hitchcock.org)
+>
+> Susana Díaz Coto - [susana.diaz.coto@dartmouth.edu](mailto:susana.diaz.coto@dartmouth.edu)
+>
+> Leyre Notario Barandiaran - [Leyre.Notario.Barandiaran@dartmouth.edu](mailto:Leyre.Notario.Barandiaran@dartmouth.edu)
 
 
 
