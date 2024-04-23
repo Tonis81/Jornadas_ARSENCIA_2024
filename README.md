@@ -18,7 +18,7 @@
 
 > ## **Comité organizador**:
 >
-> Laura Torres Collado - [l.torres@umh.es](mailto:l.torres@umh.es)
+> [Laura Torres Collado](l.torres@umh.es)
 >
 > Alejandro Oncina Canovas - [aoncina@umh.es](mailto:aoncina@umh.es)
 >
@@ -40,6 +40,12 @@
 
 <br/>
 
-> **Enlaces de interés:**
+> ## **Comité científico**:
+>
+> Laura Torres Collado - [l.torres@umh.es](mailto:l.torres@umh.es)
+
+
+
+> # **Enlaces de interés:**
 >
 > [EPINUT](https:XXXXXXX)
