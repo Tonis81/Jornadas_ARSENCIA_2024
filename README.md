@@ -1,12 +1,12 @@
-# Jornadas_ARSENCIA_2024
+# 
+
+
 
 # <span style="color:black; font-size: larger;">**Desafios globales de salud: La importancia de la epidemiología de la nutrición y elementos traza**</span>
 
+<br/>
 
-
-## <span style="color:darkblue; font-size: larger">**28 y 29 de noviembre de 2024 en el [Aula Magna](https://maps.app.goo.gl/tkF3bYfJ57GDMJ846) en Elche**</span>
-
-## <span style="color:darkblue; font-size: larger">**Universidad Miguel Hernández**</span>
+## <span style="color:darkblue; font-size: larger">**28 y 29 de noviembre de 2024 en el [Aula Magna](https://maps.app.goo.gl/tkF3bYfJ57GDMJ846) en Elche (Universidad Miguel Hernández)**</span>
 
 
 
