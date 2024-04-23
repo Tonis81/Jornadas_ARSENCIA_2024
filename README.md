@@ -58,6 +58,12 @@
 
 <br/>
 
+> ## **Comité evaluador**:
+>
+> - xxx[xx@xx](mailto:xx@xx)
+
+<br/>
+
 > ## **Enlaces de interés:**
 >
 > [EPINUT](https:XXXXXXX)
