@@ -16,7 +16,7 @@
 
 
 
-<img src="Logo.png" style="zoom:58%;" />
+
 
 <br/>
 
@@ -81,3 +81,7 @@ Xxxx
 > ## **Enlaces de interés:**
 >
 > [EPINUT](https:XXXXXXX)
+
+<br/>
+
+<img src="Logo.png" style="zoom:100%;" />
