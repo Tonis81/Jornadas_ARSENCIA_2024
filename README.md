@@ -8,6 +8,8 @@
 
 ## <span style="color:darkblue; font-size: larger">**28 y 29 de noviembre de 2024 en el [Aula Magna](https://maps.app.goo.gl/tkF3bYfJ57GDMJ846) en Elche (Universidad Miguel Hernández)**</span>
 
+<br/>
+
 
 
 <img src="Image Intro.png" style="zoom:80%;" />
