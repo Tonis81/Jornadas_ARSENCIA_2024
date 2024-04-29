@@ -36,11 +36,27 @@ Xxxx
 
 <br/>
 
+> ## **Ponentes invitados**
+>
+> ### **Nacionales**
+>
+> xxxx
+>
+> ### **Internacionales**
+>
+> Pablo Martinez Camblor - [Pablo.Martinez-Camblor@hitchcock.org](mailto:Pablo.Martinez-Camblor@hitchcock.org)
+>
+> Susana Díaz Coto - [susana.diaz.coto@dartmouth.edu](mailto:susana.diaz.coto@dartmouth.edu)
+>
+> Leyre Notario Barandiaran - [Leyre.Notario.Barandiaran@dartmouth.edu](mailto:Leyre.Notario.Barandiaran@dartmouth.edu)
 
+
+
+<br/>
 
 > ## **Comité organizador**:
 >
-> [Laura Torres Collado]() - [l.torres@umh.es](mailto:l.torres@umh.es)
+> Laura Torres Collado - [l.torres@umh.es](mailto:l.torres@umh.es)
 >
 > Alejandro Oncina Canovas - [aoncina@umh.es](mailto:aoncina@umh.es)
 >
