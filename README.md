@@ -14,16 +14,6 @@
 
 <img src="Image Intro_1.png" style="zoom:80%;" />
 
-
-
-
-
-<br/>
-
----
-
-<br/>
-
 <img src="top.png" style="zoom:80%;" />
 
 ## <span style="color:darkred; font-size: larger">**AGENDA**</span>
@@ -37,8 +27,6 @@ Xxxx
 
 
 <img src="bottom.png" style="zoom:80%;" />
-
-<br/>
 
 <img src="top.png" style="zoom:80%;" />
 
@@ -59,8 +47,6 @@ Xxxx
 
 
 <img src="bottom.png" style="zoom:80%;" />
-
-<br/>
 
 <img src="top.png" style="zoom:80%;" />
 
@@ -88,8 +74,6 @@ Xxxx
 
 <img src="bottom.png" style="zoom:80%;" />
 
-<br/>
-
 <img src="top.png" style="zoom:80%;" />
 
 > ## **Comité científico**:
@@ -104,8 +88,6 @@ Xxxx
 
 <img src="bottom.png" style="zoom:80%;" />
 
-<br/>
-
 <img src="top.png" style="zoom:80%;" />
 
 > ## **Comité evaluador**:
@@ -115,10 +97,6 @@ Xxxx
 
 
 <img src="bottom.png" style="zoom:80%;" />
-
-<br/>
-
-
 
 <img src="top.png" style="zoom:80%;" />
 
