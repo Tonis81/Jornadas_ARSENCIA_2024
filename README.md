@@ -24,7 +24,7 @@ Xxxx
 
 
 
-<img src="tap.png" style="zoom:80%;" />
+<img src="Tap.png" style="zoom:80%;" />
 
 > ## **Ponentes invitados**
 >
@@ -42,7 +42,7 @@ Xxxx
 
 
 
-<img src="tap.png" style="zoom:80%;" />
+<img src="Tap.png" style="zoom:80%;" />
 
 > ## **Comité organizador**:
 >
@@ -66,7 +66,7 @@ Xxxx
 >
 > Sandra Gonzalez Palacios - [sandra.gonzalezp@umh.es](mailto:sandra.gonzalezp@umh.es)
 
-<img src="tap.png" style="zoom:80%;" />
+<img src="Tap.png" style="zoom:80%;" />
 
 > ## **Comité científico**:
 >
@@ -78,7 +78,7 @@ Xxxx
 
 
 
-<img src="tap.png" style="zoom:80%;" />
+<img src="Tap.png" style="zoom:80%;" />
 
 > ## **Comité evaluador**:
 >
@@ -86,7 +86,7 @@ Xxxx
 
 
 
-<img src="tap.png" style="zoom:80%;" />
+<img src="Tap.png" style="zoom:80%;" />
 
 > ## **Enlaces de interés:**
 >
