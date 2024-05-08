@@ -12,7 +12,7 @@
 
 
 
-<img src="Image Intro.png" style="zoom:80%;" />
+<img src="Image Intro_1.png" style="zoom:80%;" />
 
 
 
@@ -40,9 +40,7 @@ Xxxx
 
 <br/>
 
----
-
-<br/>
+<img src="top.png" style="zoom:80%;" />
 
 > ## **Ponentes invitados**
 >
@@ -60,7 +58,11 @@ Xxxx
 
 
 
+<img src="bottom.png" style="zoom:80%;" />
+
 <br/>
+
+<img src="top.png" style="zoom:80%;" />
 
 > ## **Comité organizador**:
 >
@@ -84,7 +86,11 @@ Xxxx
 >
 > Sandra Gonzalez Palacios - [sandra.gonzalezp@umh.es](mailto:sandra.gonzalezp@umh.es)
 
+<img src="bottom.png" style="zoom:80%;" />
+
 <br/>
+
+<img src="top.png" style="zoom:80%;" />
 
 > ## **Comité científico**:
 >
@@ -94,13 +100,27 @@ Xxxx
 >
 > Leyre Notario Barandiaran - [Leyre.Notario.Barandiaran@dartmouth.edu](mailto:Leyre.Notario.Barandiaran@dartmouth.edu)
 
+
+
+<img src="bottom.png" style="zoom:80%;" />
+
 <br/>
+
+<img src="top.png" style="zoom:80%;" />
 
 > ## **Comité evaluador**:
 >
 > - xxx[xx@xx](mailto:xx@xx)
 
+
+
+<img src="bottom.png" style="zoom:80%;" />
+
 <br/>
+
+
+
+<img src="top.png" style="zoom:80%;" />
 
 > ## **Enlaces de interés:**
 >
@@ -109,3 +129,5 @@ Xxxx
 <br/>
 
 <img src="Logo.png" style="zoom:100%;" />
+
+<img src="bottom.png" style="zoom:80%;" />
