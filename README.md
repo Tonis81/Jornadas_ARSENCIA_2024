@@ -12,9 +12,9 @@
 
 
 
-<img src="Image Intro_1.png" style="zoom:80%;" />
+<img src="Image Intro.png" style="zoom:80%;" />
 
-<img src="top.png" style="zoom:80%;" />
+
 
 ## <span style="color:darkred; font-size: larger">**AGENDA**</span>
 
@@ -24,11 +24,7 @@ Xxxx
 
 
 
-
-
-<img src="bottom.png" style="zoom:80%;" />
-
-<img src="top.png" style="zoom:80%;" />
+<img src="tap.png" style="zoom:80%;" />
 
 > ## **Ponentes invitados**
 >
@@ -46,9 +42,7 @@ Xxxx
 
 
 
-<img src="bottom.png" style="zoom:80%;" />
-
-<img src="top.png" style="zoom:80%;" />
+<img src="tap.png" style="zoom:80%;" />
 
 > ## **Comité organizador**:
 >
@@ -72,9 +66,7 @@ Xxxx
 >
 > Sandra Gonzalez Palacios - [sandra.gonzalezp@umh.es](mailto:sandra.gonzalezp@umh.es)
 
-<img src="bottom.png" style="zoom:80%;" />
-
-<img src="top.png" style="zoom:80%;" />
+<img src="tap.png" style="zoom:80%;" />
 
 > ## **Comité científico**:
 >
@@ -86,9 +78,7 @@ Xxxx
 
 
 
-<img src="bottom.png" style="zoom:80%;" />
-
-<img src="top.png" style="zoom:80%;" />
+<img src="tap.png" style="zoom:80%;" />
 
 > ## **Comité evaluador**:
 >
@@ -96,9 +86,7 @@ Xxxx
 
 
 
-<img src="bottom.png" style="zoom:80%;" />
-
-<img src="top.png" style="zoom:80%;" />
+<img src="tap.png" style="zoom:80%;" />
 
 > ## **Enlaces de interés:**
 >
