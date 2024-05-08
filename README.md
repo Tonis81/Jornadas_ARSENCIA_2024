@@ -94,6 +94,8 @@ Xxxx
 
 
 
+<img src="Tap.png" style="zoom:80%;" />
+
 <br/>
 
 <img src="Logo.png" style="zoom:100%;" />
