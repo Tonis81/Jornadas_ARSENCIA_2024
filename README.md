@@ -2,7 +2,7 @@
 
 <br/>
 
-# <span style="color:black; font-size: larger;">**Desafios globales de salud: La importancia de la epidemiología de la nutrición y elementos traza**</span>
+# <span style="color:black; font-size: larger;">**Dieta y Exposición a Metales: Implicaciones para la Salud Global**</span>
 
 <br/>
 
