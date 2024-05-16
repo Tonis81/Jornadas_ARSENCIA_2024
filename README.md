@@ -59,7 +59,7 @@ Xxxx
 > Manuela Garcia De La Hera - [manoli@umh.es](mailto:manoli@umh.es)
 >
 > Dianan Mancheño Bañon - [dmancheno@umh.es](mailto:dmancheno@umh.es)
->
+
 > <div>
 >
 > <img src="Photo Jesus Vioque.png" style="zoom:40%; float: left;" />
@@ -67,7 +67,7 @@ Xxxx
 > Jesús Vioque López - [vioque@umh.es](mailto:vioque@umh.es). Catedrático. Médico y Experto en Epidemiologia de la Nutrición
 >
 > <div>
->
+
 > Maria Del Carmen Esquiva Antolino - [mesquiva@umh.es](mailto:mesquiva@umh.es)
 >
 > Sandra Gonzalez Palacios - [sandra.gonzalezp@umh.es](mailto:sandra.gonzalezp@umh.es)
