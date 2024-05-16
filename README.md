@@ -60,9 +60,11 @@ Xxxx
 >
 > Dianan Mancheño Bañon - [dmancheno@umh.es](mailto:dmancheno@umh.es)
 
+
+
 > <br/>
 >
-> <img src="Photo Jesus Vioque.png" style="zoom:40%; float: left;" />
+> <img src="Photo Jesus Vioque.png" style="zoom:35%; float: left;" />
 >
 > 
 >
@@ -70,9 +72,26 @@ Xxxx
 >
 > <br/>
 
+
+
 > Maria Del Carmen Esquiva Antolino - [mesquiva@umh.es](mailto:mesquiva@umh.es)
 >
 > Sandra Gonzalez Palacios - [sandra.gonzalezp@umh.es](mailto:sandra.gonzalezp@umh.es)
+
+
+
+><div>
+><p>Dianan Mancheño Bañon - <a href="mailto:dmancheno@umh.es">dmancheno@umh.es</a></p>
+></div>
+
+><div style="overflow: hidden;">
+><img src="Photo Jesus Vioque.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Catedrático. Médico y Experto en Epidemiología de la Nutrición</p>
+></div>
+
+><div>
+><p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a></p>
+></div>
 
 <img src="Tap.png" style="zoom:80%;" />
 
