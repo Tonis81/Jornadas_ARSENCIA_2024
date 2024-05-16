@@ -49,9 +49,20 @@ Xxxx
 > Laura Torres Collado - [l.torres@umh.es](mailto:l.torres@umh.es)
 >
 > Alejandro Oncina Canovas - [aoncina@umh.es](mailto:aoncina@umh.es)
->
-> Antonio Jose Signes Pastor - [asignes@umh.es](mailto:asignes@umh.es)
->
+
+
+
+
+
+><div style="overflow: hidden;">
+><img src="Photo toni signes.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Antonio José Signes Pastor - <a href="mailto:asignes@umh.es">asignes@umh.es</a>. Investigador CIDEGENT. Experto en Contaminantes y Elementos traza</p>
+></div>
+
+
+
+
+
 > Carolina Ojeda Belokon - [cojeda@umh.es](mailto:cojeda@umh.es)
 >
 > Laura Maria Compañ Gabucio - [lcompan@umh.es](mailto:lcompan@umh.es)
@@ -62,36 +73,22 @@ Xxxx
 
 
 
-> <br/>
->
-> <img src="Photo Jesus Vioque.png" style="zoom:35%; float: left;" />
->
-> 
->
-> Jesús Vioque López - [vioque@umh.es](mailto:vioque@umh.es). Catedrático. Médico y Experto en Epidemiologia de la Nutrición
->
-> <br/>
 
-
-
-> Maria Del Carmen Esquiva Antolino - [mesquiva@umh.es](mailto:mesquiva@umh.es)
->
-> Sandra Gonzalez Palacios - [sandra.gonzalezp@umh.es](mailto:sandra.gonzalezp@umh.es)
-
-
-
-><div>
-><p>Dianan Mancheño Bañon - <a href="mailto:dmancheno@umh.es">dmancheno@umh.es</a></p>
-></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Jesus Vioque.png" style="zoom:40%; float: left; margin-right: 10px;" />
 ><p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Catedrático. Médico y Experto en Epidemiología de la Nutrición</p>
 ></div>
 
-><div>
-><p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a></p>
-></div>
+
+
+
+
+
+
+> Maria Del Carmen Esquiva Antolino - [mesquiva@umh.es](mailto:mesquiva@umh.es)
+>
+> Sandra Gonzalez Palacios - [sandra.gonzalezp@umh.es](mailto:sandra.gonzalezp@umh.es)
 
 <img src="Tap.png" style="zoom:80%;" />
 
