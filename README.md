@@ -40,7 +40,16 @@
 >
 > Susana Díaz Coto - [susana.diaz.coto@dartmouth.edu](mailto:susana.diaz.coto@dartmouth.edu)
 >
-> Leyre Notario Barandiaran - [Leyre.Notario.Barandiaran@dartmouth.edu](mailto:Leyre.Notario.Barandiaran@dartmouth.edu)
+> - [Leyre.Notario.Barandiaran@dartmouth.edu](mailto:Leyre.Notario.Barandiaran@dartmouth.edu)
+
+
+
+><div style="overflow: hidden;">
+><img src="Photo Leyre.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Leyre Notario Barandiaran - <a href="mailto:[Leyre.Notario.Barandiaran@dartmouth.edu">[Leyre.Notario.Barandiaran@dartmouth.edu</a>. Investigadora post-doctoral. Farmacia y Epidemiología</p>
+></div>
+
+
 
 
 
