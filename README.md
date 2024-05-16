@@ -60,7 +60,9 @@ Xxxx
 >
 > Dianan Mancheño Bañon - [dmancheno@umh.es](mailto:dmancheno@umh.es)
 >
-> Jesús Vioque López - [vioque@umh.es](mailto:vioque@umh.es)
+> <img src="Photo Jesus Vioque.png" style="zoom:40%; float: left;" />
+>
+> Jesús Vioque López - [vioque@umh.es](mailto:vioque@umh.es). Catedrático. Médico y Experto en Epidemiologia de la Nutrición
 >
 > Maria Del Carmen Esquiva Antolino - [mesquiva@umh.es](mailto:mesquiva@umh.es)
 >
