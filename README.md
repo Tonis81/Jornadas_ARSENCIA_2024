@@ -20,7 +20,9 @@
 
 
 
-Xxxx
+<img src="dia 1.png" style="zoom:100%;" />
+
+<img src="dia 2.png" style="zoom:100%;" />
 
 
 
