@@ -70,7 +70,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo toni signes.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Antonio José Signes Pastor - <a href="mailto:asignes@umh.es">asignes@umh.es</a>. Investigador senior CIDEGENT en la Universidad Miguel Hernández y el Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL), miembro del CIBER de Epidemiología y Salud Pública (CIBERESP). Especializado en la transferencia de metales traza del suelo y agua a la cadena alimentaria y su impacto en la salud. Investigador principal del proyecto ARSENCIA, coinvestigador principal del proyecto HidroSOStoneFruit, y colaborador en PREDIMED, PI23/01568 y ThinkinAzul</p>
+><p>Antonio José Signes Pastor - <a href="mailto:asignes@umh.es">asignes@umh.es</a>. Investigador senior CIDEGENT en la Universidad Miguel Hernández y el Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL). Miembro del CIBER de Epidemiología y Salud Pública (CIBERESP). Experto en contaminantes y elementos traza. Investigador principal del proyecto ARSENCIA, coinvestigador principal del proyecto HidroSOStoneFruit y colaborador en los proyectos PREDIMED, PI23/01568 y ThinkinAzul.</p>
 ></div>
 
 > Carolina Ojeda Belokon - [cojeda@umh.es](mailto:cojeda@umh.es)
