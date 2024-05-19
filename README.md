@@ -40,7 +40,6 @@
 >
 > Susana Díaz Coto - [susana.diaz.coto@dartmouth.edu](mailto:susana.diaz.coto@dartmouth.edu)
 >
-> - [Leyre.Notario.Barandiaran@dartmouth.edu](mailto:Leyre.Notario.Barandiaran@dartmouth.edu)
 
 
 
