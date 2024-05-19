@@ -93,7 +93,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Jesus Vioque.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Catedrático de Medicina Preventiva y Salud Pública en UMH. Obtuvo una maestría en salud pública y formación en epidemiología nutricional en Harvard. Dirige el grupo EPINUT, que investiga el papel de la dieta en enfermedades no transmisibles. Ha liderado estudios como PANESOES, sobre dieta y riesgo de cáncer, y el Estudio INMA, sobre contaminantes y desarrollo infantil. Su grupo participa en PREDIMED-PLUS, que evalúa una dieta mediterránea hipocalórica en el riesgo cardiovascular y diabetes.</p>
+><p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Catedrático de Medicina Preventiva y Salud Pública en la UMH. Obtuvo una maestría en salud pública y formación en epidemiología nutricional en Harvard. Dirige el grupo EPINUT, que investiga el papel de la dieta en enfermedades no transmisibles. Ha liderado estudios como PANESOES, sobre dieta y riesgo de cáncer, y el Estudio INMA, sobre contaminantes y desarrollo infantil. Su grupo participa en PREDIMED-PLUS, que evalúa una dieta mediterránea hipocalórica en el riesgo cardiovascular y diabetes.</p>
 ></div>
 
 ><div style="overflow: hidden;">
