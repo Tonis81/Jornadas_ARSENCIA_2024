@@ -59,7 +59,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Laura Torr.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Laura Torres Collado - <a href="mailto:l.torres@umh.es">l.torres@umh.es</a>. XXXXXXXX</p>
+><p>Laura Torres Collado - <a href="mailto:l.torres@umh.es">l.torres@umh.es</a>. Profesora ayudante doctor en Salud Pública en la UMH e investigadora postdoctoral en el grupo EPINUT de la UMH. Adscrita a ISABIAL y CIBERESP, sus investigaciones se centran en estilos de vida, dieta y supervivencia en adultos, y en la epidemiología de la Nutrición y Terapia Ocupacional en Trastornos del Neurodesarrollo. Colabora en el estudio PREDIMED-Plus y es coautora de la app Anticipa-TEA para niños con Trastorno del Espectro Autista.</p>
 ></div>
 
 ><div style="overflow: hidden;">
@@ -89,7 +89,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Diana.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Diana Mancheño Bañon - <a href="mailto:dmancheno@umh.es">dmancheno@umh.es</a>. XXXXXXXX</p>
+><p>Diana Mancheño Bañon - <a href="mailto:dmancheno@umh.es">dmancheno@umh.es</a>.Graduada en Terapia Ocupacional por la UMH y Máster de Salud Pública, conjunto Universidad Miguel Hernández (UMH) y Universidad de Alicante (UA). Actualmente, cuenta con contrato del Programa INVESTIGO de ISABIAL como investigadora colaboradora en el grupo de Epidemiología de la Nutrición (EPINUT) de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH.</p>
 ></div>
 
 ><div style="overflow: hidden;">
