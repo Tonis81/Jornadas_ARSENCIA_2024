@@ -117,8 +117,6 @@
 >
 > Leyre Notario Barandiaran - [Leyre.Notario.Barandiaran@dartmouth.edu](mailto:Leyre.Notario.Barandiaran@dartmouth.edu)
 
-
-
 <img src="Tap.png" style="zoom:80%;" />
 
 > ## **Comité evaluador**:
