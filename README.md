@@ -64,7 +64,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Alex.png" style="zoom:42%; float: left; margin-right: 10px;" />
-><p>Alejandro Oncina Canovas - <a href="mailto:aoncina@umh.es">aoncina@umh.es</a>. XXXXXXXX</p>
+><p>Alejandro Oncina Canovas - <a href="mailto:aoncina@umh.es">aoncina@umh.es</a>. Investigador predoctoral del grupo de Epidemiología de la Nutrición (EPINUT) de la UMH. Adscrito a ISABIAL y a CIBERESP. Su principal línea de investigación se centra en examinar la asociación entre la adherencia a patrones dietéticos pro-vegetarianos (patrones de dieta que simulan a las dietas vegetarianas) y diferentes resultados en salud. Además, es investigador colaborador en ARSENCIA y en otros estudios de relevancia internacional como PREDIMED-Plus y el estudio de cohortes INMA. </p>
 ></div>
 
 ><div style="overflow: hidden;">
