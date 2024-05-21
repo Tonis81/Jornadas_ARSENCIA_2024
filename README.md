@@ -74,7 +74,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Carolina.png" style="zoom:38%; float: left; margin-right: 10px;" />
-><p>Carolina Ojeda Belokon - <a href="mailto:cojeda@umh.es">cojeda@umh.es</a>Investigadora predoctoral en la Universidad Miguel Hernández (UMH) y el Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL). Me gradué en nutrición Humana y Dietética en 2017 y realicé el Máster en Salud Pública en 2018. Actualmente, me encuentro realizando mi tesis doctoral en un proyecto de supervivencia y dieta en población adulta española. </p>
+><p>Carolina Ojeda Belokon - <a href="mailto:cojeda@umh.es">cojeda@umh.es</a>. Investigadora predoctoral en la Universidad Miguel Hernández (UMH) y el Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL). Me gradué en nutrición Humana y Dietética en 2017 y realicé el Máster en Salud Pública en 2018. Actualmente, me encuentro realizando mi tesis doctoral en un proyecto de supervivencia y dieta en población adulta española. </p>
 ></div>
 
 ><div style="overflow: hidden;">
