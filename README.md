@@ -99,7 +99,8 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Mari Carmen.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a>. XXXXXXXXGraduada en Veterinaria por la Universidad de Murcia (UMU) y Máster de Salud Pública, conjunto UMH y Universidad de Alicante (UA). Actualmente, cuenta con contrato del Programa INVESTIGO de ISABIAL como investigadora colaboradora en el grupo de Epidemiología de la Nutrición (EPINUT) de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH.</div>
+><p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a>. XXXXXXXXGraduada en Veterinaria por la Universidad de Murcia (UMU) y Máster de Salud Pública, conjunto UMH y Universidad de Alicante (UA). Actualmente, cuenta con contrato del Programa INVESTIGO de ISABIAL como investigadora colaboradora en el grupo de Epidemiología de la Nutrición (EPINUT) de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH. </p>
+></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Sandra.png" style="zoom:40%; float: left; margin-right: 10px;" />
