@@ -79,12 +79,12 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Laura Comp.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Laura Maria Compañ Gabucio - <a href="mailto:lcompan@umh.es">lcompan@umh.es</a>. XXXXXXXX</p>
+><p>Laura Maria Compañ Gabucio - <a href="mailto:lcompan@umh.es">lcompan@umh.es</a>. Investigadora postdoctoral del grupo EPINUT de la UMH. Adscrita a ISABIAL y a CIBERESP. Líneas de investigación principales: Epidemiología de la Nutrición y Terapia Ocupacional en Trastornos del Neurodesarrollo. Investigadora colaboradora en estudios de relevancia internacional como PREDIMED-Plus y Proyecto INMA. Coautora de la aplicación para móviles Anticipa-TEA, dirigida a colectivo infantil con Trastorno del Espectro Autista y sus familiares.</p>
 ></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Manoli.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Manuela Garcia De La Hera - <a href="mailto:manoli@umh.es">manoli@umh.es</a>. XXXXXXXX</p>
+><p>Manuela Garcia De La Hera - <a href="mailto:manoli@umh.es">manoli@umh.es</a>. Catedrática de Medicina Preventiva y Salud Pública en la UMH. Miembro del grupo EPINUT, enfocado en investigar el papel de la dieta en el riesgo de enfermedades no transmisibles. Ha realizado estudios sobre supervivencia, estilos de vida y dieta, así como sobre Epidemiología de la Nutrición y Terapia Ocupacional en Trastornos del Neurodesarrollo. Colaboradora en los estudios INMA y PREDIMED-PLUS, y coautora de la app móvil Anticipa-TEA, dirigida a niños con Trastorno del Espectro Autista.</p>
 ></div>
 
 ><div style="overflow: hidden;">
