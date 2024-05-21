@@ -63,7 +63,7 @@
 ></div>
 
 ><div style="overflow: hidden;">
-><img src="Photo Alex.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><img src="Photo Alex.png" style="zoom:42%; float: left; margin-right: 10px;" />
 ><p>Alejandro Oncina Canovas - <a href="mailto:aoncina@umh.es">aoncina@umh.es</a>. XXXXXXXX</p>
 ></div>
 
@@ -72,8 +72,10 @@
 ><p>Antonio José Signes Pastor - <a href="mailto:asignes@umh.es">asignes@umh.es</a>. Investigador senior CIDEGENT en la Universidad Miguel Hernández (UMH) y el Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL). Miembro del CIBER de Epidemiología y Salud Pública (CIBERESP). Experto en contaminantes y elementos traza. Investigador principal del proyecto ARSENCIA, coinvestigador principal del proyecto HidroSOStoneFruit y colaborador en los proyectos PREDIMED, PI23/01568 y ThinkinAzul.</p>
 ></div>
 
-> Carolina Ojeda Belokon - [cojeda@umh.es](mailto:cojeda@umh.es)
->
+><div style="overflow: hidden;">
+><img src="Photo Carolina.png" style="zoom:38%; float: left; margin-right: 10px;" />
+><p>Carolina Ojeda Belokon - <a href="mailto:cojeda@umh.es">cojeda@umh.es</a>Investigadora predoctoral en la Universidad Miguel Hernández (UMH) y el Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL). Me gradué en nutrición Humana y Dietética en 2017 y realicé el Máster en Salud Pública en 2018. Actualmente, me encuentro realizando mi tesis doctoral en un proyecto de supervivencia y dieta en población adulta española. </p>
+></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Laura Comp.png" style="zoom:40%; float: left; margin-right: 10px;" />
@@ -99,8 +101,6 @@
 ><img src="Photo Mari Carmen.png" style="zoom:40%; float: left; margin-right: 10px;" />
 ><p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a>. XXXXXXXX</p>
 ></div>
-
-
 
 ><div style="overflow: hidden;">
 ><img src="Photo Sandra.png" style="zoom:40%; float: left; margin-right: 10px;" />
