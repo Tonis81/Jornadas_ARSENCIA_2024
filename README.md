@@ -104,10 +104,8 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Sandra.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Sandra Gonzalez Palacios - <a href="mailto:sandra.gonzalezp@umh.es">sandra.gonzalezp@umh.es</a>. XXXXXXXX</p>
+><p>Sandra Gonzalez Palacios - <a href="mailto:sandra.gonzalezp@umh.es">sandra.gonzalezp@umh.es</a>. Investigadora postdoctoral del CIBER de Epidemiología y Salud Pública (CIBERESP). Miembro del grupo EPINUT y del Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL). Dietista-Nutricionista, Doctora en Salud Pública y especialista en Epidemiología de la Nutrición. Investigadora principal del proyecto FIS PI23/01568 y del Proyecto Intramural CIBERESP ESP24PI02. Colaboradora en otros estudios como el PREDIMED Plus y el estudio INfancia y Medio Ambiente.</p>
 ></div>
-
-
 
 <img src="Tap.png" style="zoom:80%;" />
 
