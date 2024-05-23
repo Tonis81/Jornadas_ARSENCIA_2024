@@ -30,11 +30,62 @@
 
 ## <span style="color:darkred; font-size: larger">**AGENDA**</span>
 
+### Programa Día 1 - 28 de Noviembre 2024
+
+#### 9:00 Recepción de asistentes
+
+#### 9:30 Inauguración de las jornadas
+
+- Ponente: Prof. Ángel Carbonell Barrachina
+- Descripción: XXXX
+
+#### 9:45 Epidemiología de la Nutrición
+
+- Ponente: Prof. Jesús Vioque López
+- Descripción: XXXX
+
+#### 10:15 Contaminación y Salud
+
+- Ponente: Dr. Antonio J. Signes Pastor
+- Descripción: XXXX
+
+#### 10:45 <span style="color:darkred;">**Pausa café**</span>
+
+#### 11:15 Ponente internacional 1
+
+- Ponente: xxxxxxx
+- Descripción: XXXX
+
+#### 11:45 Ponente internacional 2
+
+- Ponente: xxxxxxxx
+- Descripción: XXXX
+
+#### 12:15 Ponente internacional 3
+
+- Ponente: xxxxxxx
+- Descripción: XXXX
+
+#### 12:45 Conclusiones finales
+
+- Ponente: xxxxxxx
+- Descripción: XXXX
+
+#### 13:00 <span style="color:darkred;">**Pausa activa**</span>
+
+#### 13:00 <span style="color:darkred;">**Comida Tapas y Gurus**</span>
+
+#### 15:00 Sesión pósteres estudiantes
+
+#### 17:30 Final de las jornadas día 1
+
+-----
+
+### Programa Día 2 - 29 de Noviembre 2024
+
+Xxxxxxx
 
 
-<img src="dia 1.png" style="zoom:100%;" />
-
-<img src="dia 2.png" style="zoom:100%;" />
 
 
 
