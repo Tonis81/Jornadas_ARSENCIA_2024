@@ -33,52 +33,59 @@
 
 ### Programa Día 1 - 28 de Noviembre 2024
 
-#### 9:00 Recepción de asistentes
+> #### 9:00 Recepción de asistentes
 
-#### 9:30 Inauguración de las jornadas
+> #### 9:30 Inauguración de las jornadas
+>
+> Ponente: Prof. Ángel Carbonell Barrachina
+>
+> Descripción: XXXX
 
-- Ponente: Prof. Ángel Carbonell Barrachina
-- Descripción: XXXX
+> #### 9:45 Epidemiología de la Nutrición
+>
+> Ponente: Prof. Jesús Vioque López
+>
+> Descripción: XXXX
 
-#### 9:45 Epidemiología de la Nutrición
+> #### 10:15 Contaminación y Salud
+>
+> Ponente: Dr. Antonio J. Signes Pastor
+>
+> Descripción: XXXX
 
-- Ponente: Prof. Jesús Vioque López
-- Descripción: XXXX
+> #### 10:45 <span style="color:darkred;">**Pausa café**</span>
 
-#### 10:15 Contaminación y Salud
+> #### 11:15 Ponente internacional 1
+>
+> Ponente: xxxxxxx
+>
+> Descripción: XXXX
 
-- Ponente: Dr. Antonio J. Signes Pastor
-- Descripción: XXXX
+> #### 11:45 Ponente internacional 2
+>
+> Ponente: xxxxxxxx
+>
+> Descripción: XXXX
 
-#### 10:45 <span style="color:darkred;">**Pausa café**</span>
+> #### 12:15 Ponente internacional 3
+>
+> Ponente: xxxxxxx
+>
+> Descripción: XXXX
 
-#### 11:15 Ponente internacional 1
+> #### 12:45 Conclusiones finales
+>
+> Ponente: xxxxxxx
+>
+> Descripción: XXXX
 
-- Ponente: xxxxxxx
-- Descripción: XXXX
+> #### 13:00 <span style="color:darkred;">**Pausa activa**</span>
 
-#### 11:45 Ponente internacional 2
+> #### 13:00 <span style="color:darkred;">**Comida Tapas y Gurus**</span>
 
-- Ponente: xxxxxxxx
-- Descripción: XXXX
+> #### 15:00 Sesión pósteres estudiantes
 
-#### 12:15 Ponente internacional 3
-
-- Ponente: xxxxxxx
-- Descripción: XXXX
-
-#### 12:45 Conclusiones finales
-
-- Ponente: xxxxxxx
-- Descripción: XXXX
-
-#### 13:00 <span style="color:darkred;">**Pausa activa**</span>
-
-#### 13:00 <span style="color:darkred;">**Comida Tapas y Gurus**</span>
-
-#### 15:00 Sesión pósteres estudiantes
-
-#### 17:30 Final de las jornadas día 1
+> #### 17:30 Final de las jornadas día 1
 
 -----
 
@@ -92,8 +99,8 @@ Xxxxxxx
 
 <img src="Tap.png" style="zoom:80%;" />
 
-> ## **Ponentes invitados**
->
+## **Ponentes invitados**
+
 > ### **Nacionales**
 >
 > xxxx
@@ -118,8 +125,7 @@ Xxxxxxx
 
 <img src="Tap.png" style="zoom:80%;" />
 
-> ## **Comité organizador**:
->
+## **Comité organizador**:
 
 ><div style="overflow: hidden;">
 ><img src="Photo Laura Torr.png" style="zoom:40%; float: left; margin-right: 10px;" />
