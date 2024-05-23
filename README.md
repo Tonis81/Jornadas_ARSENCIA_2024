@@ -14,13 +14,13 @@
 
 <img src="Image Intro.png" style="zoom:80%;" />
 
-## <span style="color:darkred; font-size: larger">**PRESENTACIÓN**</span>
+## **Presentación**
 
 <p style="font-size: 14px;"><em>La salud y la alimentación están estrechamente vinculadas. La cantidad y variedad de alimentos que forman parte de nuestra dieta, junto con los modelos de producción de alimentos que actualmente están siendo revisados para promover una mayor sostenibilidad, pueden influir tanto en la ingesta de nutrientes como en la exposición a sustancias nocivas.
 </em></p>
-
 <p style="font-size: 14px;"><em>Una alta adherencia a la dieta Mediterránea o a otros patrones saludables basados en alimentos de origen vegetal a lo largo del tiempo contribuye significativamente a promover una buena salud. Sin embargo, los alimentos también pueden contener elementos tóxicos, como el arsénico, cuya exposición crónica, incluso a concentraciones relativamente bajas, puede tener un impacto negativo en la salud. Además, su efecto perjudicial puede ser potenciado por interacciones con otros elementos. Por ello, es de vital importancia desarrollar modelos que permitan evaluar los riesgos para la salud asociados con la exposición a agentes tóxicos especialmente para personas vulnerables como mujeres embarazadas, infantes, niños y personas mayores.
   </em></p>
+
 
 <p style="font-size: 14px;"><em>Durante estas jornadas, se presentarán evidencias científicas sobre la importancia de la dieta en la salud, así como de la exposición a metales tóxicos a través de los alimentos, y se discutirán estrategias y oportunidades para reducirla. Se destacarán evidencias generadas en proyectos en curso en la Universidad Miguel Hernández (UMH), como ARSENCIA, enmarcado en el programa GenT financiado por la Generalitat Valenciana, el estudio PREDIMED Plus, HidroSOStoneFruit, ThinkinAzul y un reciente proyecto sobre trasmisibilidad de la dieta Mediterránea de madres a hijos financiado por el Instituto de Salud Carlos III. Para lograr este objetivo, se adoptará un doble enfoque científico y educativo para facilitar a estudiantes de grado, máster y doctorado de diversas disciplinas relacionadas interactuar con investigadores y presentar sus trabajos. Además, se dará voz a los participantes en los estudios para que puedan expresar sus percepción, ideas e inquietudes sobre la alimentación, y explorar la posibilidad de integrarlas en futuros proyectos de investigación colaborativos.
 </em></p>
@@ -28,7 +28,8 @@
 <p style="font-size: 14px;"><em>Con este propósito en mente, se han planificado diversas actividades, que incluyen la recopilación de información sobre la dieta de los asistentes mediante cuestionarios, con el objetivo de evaluar su adherencia a prácticas alimenticias saludables, así como ponencias de investigadores de prestigio y talleres demostrativos. A partir de toda la información recabada durante el evento, se espera desarrollar una guía o informe de buenas prácticas que contribuya a promover el consumo de alimentos que favorezcan una dieta equilibrada y beneficiosa para la salud.
 </em></p>
 
-## <span style="color:darkred; font-size: larger">**AGENDA**</span>
+
+## **Agenda**
 
 ### Programa Día 1 - 28 de Noviembre 2024
 
