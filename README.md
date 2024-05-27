@@ -2,7 +2,7 @@
 
 <br/>
 
-# <span style="color:black; font-size: larger;">**Dieta y Exposición a Metales: Implicaciones para la Salud Global**</span>
+<img src="Title.png" style="zoom:80%;" />
 
 <br/>
 
