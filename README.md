@@ -127,6 +127,24 @@ Xxxxxxx
 
 ## **Comité organizador**:
 
+### Presidente
+
+><div style="overflow: hidden;">
+><img src="Photo toni signes.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Antonio José Signes Pastor - <a href="mailto:asignes@umh.es">asignes@umh.es</a>. Investigador senior CIDEGENT en la Universidad Miguel Hernández (UMH) y el Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL). Miembro del CIBER de Epidemiología y Salud Pública (CIBERESP). Experto en contaminantes y elementos traza. Investigador principal del proyecto ARSENCIA, coinvestigador principal del proyecto HidroSOStoneFruit y colaborador en los proyectos PREDIMED, PI23/01568 y ThinkinAzul.</p>
+></div>
+
+### Miembros del comité
+
+><div style="overflow: hidden;">
+><img src="Photo Jesus Vioque.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Catedrático de Medicina Preventiva y Salud Pública en la UMH. Obtuvo una maestría en salud pública y formación en epidemiología nutricional en Harvard. Dirige el grupo EPINUT, que investiga el papel de la dieta en enfermedades no transmisibles. Ha liderado estudios como PANESOES, sobre dieta y riesgo de cáncer, y el Estudio INMA, sobre contaminantes y desarrollo infantil. Su grupo participa en PREDIMED-PLUS, que evalúa una dieta mediterránea hipocalórica en el riesgo cardiovascular y diabetes.</p></div>
+
+><div style="overflow: hidden;">
+><img src="Photo Manoli.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Manuela Garcia De La Hera - <a href="mailto:manoli@umh.es">manoli@umh.es</a>. Catedrática de Medicina Preventiva y Salud Pública en la UMH. Miembro del grupo EPINUT, enfocado en investigar el papel de la dieta en el riesgo de enfermedades no transmisibles. Ha realizado estudios sobre supervivencia, estilos de vida y dieta, así como sobre Epidemiología de la Nutrición y Terapia Ocupacional en Trastornos del Neurodesarrollo. Colaboradora en los estudios INMA y PREDIMED-PLUS, y coautora de la app móvil Anticipa-TEA, dirigida a niños con Trastorno del Espectro Autista.</p>
+></div>
+
 ><div style="overflow: hidden;">
 ><img src="Photo Laura Torr.png" style="zoom:40%; float: left; margin-right: 10px;" />
 ><p>Laura Torres Collado - <a href="mailto:l.torres@umh.es">l.torres@umh.es</a>. Profesora ayudante doctor en Salud Pública en la UMH e investigadora postdoctoral en el grupo EPINUT de la UMH. Adscrita a ISABIAL y CIBERESP, sus investigaciones se centran en estilos de vida, dieta y supervivencia en adultos, y en la epidemiología de la Nutrición y Terapia Ocupacional en Trastornos del Neurodesarrollo. Colabora en el estudio PREDIMED-Plus y es coautora de la app Anticipa-TEA para niños con Trastorno del Espectro Autista.</p>
@@ -138,8 +156,8 @@ Xxxxxxx
 ></div>
 
 ><div style="overflow: hidden;">
-><img src="Photo toni signes.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Antonio José Signes Pastor - <a href="mailto:asignes@umh.es">asignes@umh.es</a>. Investigador senior CIDEGENT en la Universidad Miguel Hernández (UMH) y el Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL). Miembro del CIBER de Epidemiología y Salud Pública (CIBERESP). Experto en contaminantes y elementos traza. Investigador principal del proyecto ARSENCIA, coinvestigador principal del proyecto HidroSOStoneFruit y colaborador en los proyectos PREDIMED, PI23/01568 y ThinkinAzul.</p>
+><img src="Photo Laura Comp.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Laura Maria Compañ Gabucio - <a href="mailto:lcompan@umh.es">lcompan@umh.es</a>. Investigadora postdoctoral del grupo EPINUT de la UMH. Adscrita a ISABIAL y a CIBERESP. Líneas de investigación principales: Epidemiología de la Nutrición y Terapia Ocupacional en Trastornos del Neurodesarrollo. Investigadora colaboradora en estudios de relevancia internacional como PREDIMED-Plus y Proyecto INMA. Coautora de la aplicación para móviles Anticipa-TEA, dirigida a colectivo infantil con Trastorno del Espectro Autista y sus familiares.</p>
 ></div>
 
 ><div style="overflow: hidden;">
@@ -148,24 +166,8 @@ Xxxxxxx
 ></div>
 
 ><div style="overflow: hidden;">
-><img src="Photo Laura Comp.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Laura Maria Compañ Gabucio - <a href="mailto:lcompan@umh.es">lcompan@umh.es</a>. Investigadora postdoctoral del grupo EPINUT de la UMH. Adscrita a ISABIAL y a CIBERESP. Líneas de investigación principales: Epidemiología de la Nutrición y Terapia Ocupacional en Trastornos del Neurodesarrollo. Investigadora colaboradora en estudios de relevancia internacional como PREDIMED-Plus y Proyecto INMA. Coautora de la aplicación para móviles Anticipa-TEA, dirigida a colectivo infantil con Trastorno del Espectro Autista y sus familiares.</p>
-></div>
-
-><div style="overflow: hidden;">
-><img src="Photo Manoli.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Manuela Garcia De La Hera - <a href="mailto:manoli@umh.es">manoli@umh.es</a>. Catedrática de Medicina Preventiva y Salud Pública en la UMH. Miembro del grupo EPINUT, enfocado en investigar el papel de la dieta en el riesgo de enfermedades no transmisibles. Ha realizado estudios sobre supervivencia, estilos de vida y dieta, así como sobre Epidemiología de la Nutrición y Terapia Ocupacional en Trastornos del Neurodesarrollo. Colaboradora en los estudios INMA y PREDIMED-PLUS, y coautora de la app móvil Anticipa-TEA, dirigida a niños con Trastorno del Espectro Autista.</p>
-></div>
-
-><div style="overflow: hidden;">
 ><img src="Photo Diana.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Diana Mancheño Bañon - <a href="mailto:dmancheno@umh.es">dmancheno@umh.es</a>.Graduada en Terapia Ocupacional por la UMH y Máster de Salud Pública, conjunto Universidad Miguel Hernández (UMH) y Universidad de Alicante (UA). Actualmente, cuenta con contrato del Programa INVESTIGO de ISABIAL como investigadora colaboradora en el grupo de Epidemiología de la Nutrición (EPINUT) de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH.</p>
-></div>
-
-><div style="overflow: hidden;">
-><img src="Photo Jesus Vioque.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Catedrático de Medicina Preventiva y Salud Pública en la UMH. Obtuvo una maestría en salud pública y formación en epidemiología nutricional en Harvard. Dirige el grupo EPINUT, que investiga el papel de la dieta en enfermedades no transmisibles. Ha liderado estudios como PANESOES, sobre dieta y riesgo de cáncer, y el Estudio INMA, sobre contaminantes y desarrollo infantil. Su grupo participa en PREDIMED-PLUS, que evalúa una dieta mediterránea hipocalórica en el riesgo cardiovascular y diabetes.</p>
-></div>
+><p>Diana Mancheño Bañon - <a href="mailto:dmancheno@umh.es">dmancheno@umh.es</a>.Graduada en Terapia Ocupacional por la UMH y Máster de Salud Pública, conjunto Universidad Miguel Hernández (UMH) y Universidad de Alicante (UA). Actualmente, cuenta con contrato del Programa INVESTIGO de ISABIAL como investigadora colaboradora en el grupo de Epidemiología de la Nutrición (EPINUT) de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH.</p></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Mari Carmen.png" style="zoom:40%; float: left; margin-right: 10px;" />
@@ -180,7 +182,11 @@ Xxxxxxx
 <img src="Tap.png" style="zoom:80%;" />
 
 > ## **Comité científico**:
->
+
+> ### Presidente
+
+
+
 > Pablo Martinez Camblor - [Pablo.Martinez-Camblor@hitchcock.org](mailto:Pablo.Martinez-Camblor@hitchcock.org)
 >
 > Susana Díaz Coto - [susana.diaz.coto@dartmouth.edu](mailto:susana.diaz.coto@dartmouth.edu)
