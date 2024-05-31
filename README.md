@@ -134,7 +134,7 @@ Xxxxxxx
 ><p>Antonio José Signes Pastor - <a href="mailto:asignes@umh.es">asignes@umh.es</a>. Investigador senior CIDEGENT en la Universidad Miguel Hernández (UMH) y el Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL). Miembro del CIBER de Epidemiología y Salud Pública (CIBERESP). Experto en contaminantes y elementos traza. Investigador principal del proyecto ARSENCIA, coinvestigador principal del proyecto HidroSOStoneFruit y colaborador en los proyectos PREDIMED, PI23/01568 y ThinkinAzul.</p>
 ></div>
 
-### Miembros del comité
+> ### Miembros del comité
 
 ><div style="overflow: hidden;">
 ><img src="Photo Jesus Vioque.png" style="zoom:40%; float: left; margin-right: 10px;" />
