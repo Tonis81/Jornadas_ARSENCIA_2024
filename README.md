@@ -194,7 +194,7 @@ Xxxxxxx
 
 > ### Presidente
 
-> Antonio J. Signes Pastor, Universidad Miguel Hernández (España
+> Antonio J. Signes Pastor, Universidad Miguel Hernández (España)
 
 > ### Miembros del comité
 
