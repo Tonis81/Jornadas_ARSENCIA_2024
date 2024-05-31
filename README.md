@@ -186,7 +186,7 @@ Xxxxxxx
 ><div style="overflow: hidden;">
 ><img src="Photo Paqui_1.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Francisca Hernández García - <a href="mailto:francisca.hernandez@umh.es">francisca.hernandez@umh.es</a>. Catedrática en la UMH, miembro del Grupo de Investigación en Fruticultura y Técnicas de Producción, Investigadora Titular en CIAGRO-UMH y miembro de la Comisión Académica del Programa de Doctorado en Recursos y Tecnologías Agrarias, Agroambientales y Alimentarias. Experta en Fruticultura y Técnicas de Producción. Investigadora principal del proyecto HidroSOStoneFruit y colaboradora en el proyecto ThinkinAzul.</p></div>
 
-> ## 
+
 
 <img src="Tap.png" style="zoom:80%;" />
 
@@ -199,14 +199,23 @@ Xxxxxxx
 > ### Miembros del comité
 
 > Jesús Vioque López, Universidad Miguel Hernández (España)
+>
 > Manuela García de la Hera, Universidad Miguel Hernández (España)
+>
 > Laura Torres Collado, Universidad Miguel Hernández (España)
+>
 > Sandra González Palacios, Universidad Miguel Hernández (España)
+>
 > Alejandro Oncina Cánovas, Universidad Miguel Hernández (España)
+>
 > Laura M. Compañ Gabucio, Universidad Miguel Hernández (España)
+>
 > Carolina Ojeda Belokon, Universidad Miguel Hernández (España)
+>
 > Diana Mancheño Bañón, Universidad Miguel Hernández (España)
+>
 > María del Carmen Esquiva Antonlino, Universidad Miguel Hernández (España) 
+>
 > Leyre Notario Barandiaran, Dartmouth College (Estados Unidos)
 
 <img src="Tap.png" style="zoom:80%;" />
