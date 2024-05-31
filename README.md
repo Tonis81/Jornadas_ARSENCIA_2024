@@ -162,7 +162,7 @@ Xxxxxxx
 
 ><div style="overflow: hidden;">
 ><img src="Photo Carolina.png" style="zoom:38%; float: left; margin-right: 10px;" />
-><p>Carolina Ojeda Belokon - <a href="mailto:cojeda@umh.es">cojeda@umh.es</a>. Investigadora predoctoral en la Universidad Miguel Hernández (UMH) y el Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL). Me gradué en nutrición Humana y Dietética en 2017 y realicé el Máster en Salud Pública en 2018. Actualmente, me encuentro realizando mi tesis doctoral en un proyecto de supervivencia y dieta en población adulta española. </p>
+><p>Carolina Ojeda Belokon - <a href="mailto:cojeda@umh.es">cojeda@umh.es</a>. Graduada en Nutrición Humana y Dietética por la Universidad de Alicante (UA) y Máster de Salud Pública, conjunto Universidad Miguel Hernández (UMH) y UA. Actualmente, cuenta con contrato predoctoral de la UMH en el grupo de Epidemiología de la Nutrición (EPINUT) de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH.</p>
 ></div>
 
 ><div style="overflow: hidden;">
@@ -198,15 +198,16 @@ Xxxxxxx
 
 > ### Miembros del comité
 
-> Jesús Vioque López, Universidad Miguel Hernández (España)
->  Manuela García de la Hera, Universidad Miguel Hernández (España)
->  Laura Torres Collado, Universidad Miguel Hernández (España)
->  Sandra González Palacios, Universidad Miguel Hernández (España)
->  Alejandro Oncina Cánovas, Universidad Miguel Hernández (España)
->  Laura M. Compañ Gabucio, Universidad Miguel Hernández (España)
->  Carolina Ojeda Belokon, Universidad Miguel Hernández (España)
->  Diana Mancheño Bañón, Universidad Miguel Hernández (España)
->  María del Carmen Esquiva Antonlino, Universidad Miguel Hernández (España) Leyre Notario Barandiaran, Dartmouth College (Estados Unidos)
+> Jesús Vioque López, Universidad Miguel Hernández (España)
+> Manuela García de la Hera, Universidad Miguel Hernández (España)
+> Laura Torres Collado, Universidad Miguel Hernández (España)
+> Sandra González Palacios, Universidad Miguel Hernández (España)
+> Alejandro Oncina Cánovas, Universidad Miguel Hernández (España)
+> Laura M. Compañ Gabucio, Universidad Miguel Hernández (España)
+> Carolina Ojeda Belokon, Universidad Miguel Hernández (España)
+> Diana Mancheño Bañón, Universidad Miguel Hernández (España)
+> María del Carmen Esquiva Antonlino, Universidad Miguel Hernández (España) 
+> Leyre Notario Barandiaran, Dartmouth College (Estados Unidos)
 
 <img src="Tap.png" style="zoom:80%;" />
 
