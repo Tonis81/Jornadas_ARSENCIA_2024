@@ -55,21 +55,21 @@
 
 > #### 10:45 <span style="color:darkred;">**Pausa café**</span>
 
-> #### 11:15 Ponente internacional 1
+> #### 11:15 Título por determinar
 >
-> Ponente: xxxxxxx
->
-> Descripción: XXXX
-
-> #### 11:45 Ponente internacional 2
->
-> Ponente: xxxxxxxx
+> Ponente: Dr. Pablo Martínez Camblor
 >
 > Descripción: XXXX
 
-> #### 12:15 Ponente internacional 3
+> #### 11:45 Título por determinar
 >
-> Ponente: xxxxxxx
+> Ponente: Dra. Susana Díaz Coto
+>
+> Descripción: XXXX
+
+> #### 12:15 Título por determinar
+>
+> Ponente: Dra. Leyre Notario Barandiarán
 >
 > Descripción: XXXX
 
@@ -81,21 +81,59 @@
 
 > #### 13:00 <span style="color:darkred;">**Pausa activa**</span>
 
-> #### 13:00 <span style="color:darkred;">**Comida Tapas y Gurus**</span>
+> #### 13:30 <span style="color:darkred;">**Comida Tapas y Gurus**</span>
 
 > #### 15:00 Sesión pósteres estudiantes
 
-> #### 17:30 Final de las jornadas día 1
+> #### 17:30 Entrega de premios y fin de las jornadas del día 1
 
 -----
 
 ### Programa Día 2 - 29 de Noviembre 2024
 
-Xxxxxxx
+> #### 9:00 Recepción de asistentes
 
+> #### 9:30 Título por determinar - Proyecto Agroalnext
+>
+> Ponente: Paqui/Lucia
+>
+> Descripción: xxxxxx
 
+> #### 9:45 Título por determinar - Proyecto ThinkinAzul
+>
+> Ponente: Esther/Marina
+>
+> Descripción: xxxxx
 
+> #### 10:15 Título por determinar - Proyecto Dieta Mediterránea
+>
+> Ponente: Dra. Sandra González Palacios
+>
+> Descripción: xxxxx
 
+> #### 10:30 <span style="color:darkred;">**Pausa activa**</span>
+
+> #### 10:45 <span style="color:darkred;">**Pausa Café**</span>
+
+> #### 11:15 Exposición participantes PREDIMED Plus
+>
+> Ponente: xxxxx
+>
+> Descripción: xxxxx
+
+> #### 11:45 Despedida por el fin de estudio PREDIMED Plus
+>
+> Ponente: xxxxx
+>
+> Descripción: xxxxx
+
+> #### 10:45 <span style="color:darkred;">**Cata - Pendiente por definir**</span>
+
+> #### 13:15 Clausura
+>
+> Dr. Antonio J. Signes Pastor
+
+> #### 13:30 Fin de las Jornadas ARSENCIA
 
 <img src="Tap.png" style="zoom:80%;" />
 
