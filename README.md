@@ -6,6 +6,8 @@
 
 <br/>
 
+[versión en inglés](https://tonis81.github.io/Jornadas_ARSENCIA_2024_en/)
+
 ## <span style="color:darkblue; font-size: larger">**28 y 29 de noviembre de 2024 en el [Aula Magna](https://maps.app.goo.gl/tkF3bYfJ57GDMJ846) en Elche (Universidad Miguel Hernández)**</span>
 
 <br/>
@@ -148,16 +150,10 @@
 > Susana Díaz Coto - [susana.diaz.coto@dartmouth.edu](mailto:susana.diaz.coto@dartmouth.edu)
 >
 
-
-
 ><div style="overflow: hidden;">
 ><img src="Photo Leyre.png" style="zoom:40%; float: left; margin-right: 10px;" />
 ><p>Leyre Notario Barandiaran - <a href="mailto:Leyre.Notario.Barandiaran@dartmouth.edu">Leyre.Notario.Barandiaran@dartmouth.edu</a>. Investigadora post-doctoral. Farmacia y Epidemiología</p>
 ></div>
-
-
-
-
 
 <img src="Tap.png" style="zoom:80%;" />
 
