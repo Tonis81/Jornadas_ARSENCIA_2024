@@ -10,8 +10,6 @@
 
 <br/>
 
-
-
 <img src="Image Intro.png" style="zoom:80%;" />
 
 ## **Presentación**
