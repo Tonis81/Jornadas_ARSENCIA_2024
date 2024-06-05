@@ -137,11 +137,15 @@
 
 <img src="Tap.png" style="zoom:80%;" />
 
-## **Ponentes invitados**
+## **Ponentes**
 
 > ### **Nacionales**
 >
-> xxxx
+><div style="overflow: hidden;">
+><img src="Photo Marina.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Marina Cano Lamadrid - <a href="mailto:marina.canol@umh.es">marina.canol@umh.es</a>. Investigadora postdoctoral en la UMH, miembro del Grupo de Calidad y Seguridad Alimentaria del Departamento de Tecnología Agroalimentaria e investigadora en CIAGRO-UMH. Experta en Análisis Sensorial de Alimentos y en Inocuidad Alimentaria. Colaboradora en el proyecto ThinkinAzul.</p>
+></div>
+> 
 >
 > ### **Internacionales**
 >
@@ -176,6 +180,8 @@
 ><img src="Photo Manoli.png" style="zoom:40%; float: left; margin-right: 10px;" />
 ><p>Manuela Garcia De La Hera - <a href="mailto:manoli@umh.es">manoli@umh.es</a>. Catedrática de Medicina Preventiva y Salud Pública en la UMH. Miembro del grupo EPINUT, enfocado en investigar el papel de la dieta en el riesgo de enfermedades no transmisibles. Ha realizado estudios sobre supervivencia, estilos de vida y dieta, así como sobre Epidemiología de la Nutrición y Terapia Ocupacional en Trastornos del Neurodesarrollo. Colaboradora en los estudios INMA y PREDIMED-PLUS, y coautora de la app móvil Anticipa-TEA, dirigida a niños con Trastorno del Espectro Autista.</p>
 ></div>
+>
+>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Laura Torr.png" style="zoom:40%; float: left; margin-right: 10px;" />
