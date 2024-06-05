@@ -101,7 +101,7 @@
 
 > #### 9:45 Título por determinar - Proyecto ThinkinAzul
 >
-> Ponente: Marina Cano Lamadrid
+> Ponente: Dra. Marina Cano Lamadrid
 >
 > Descripción: xxxxx
 
