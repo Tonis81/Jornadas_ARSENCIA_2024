@@ -101,7 +101,7 @@
 
 > #### 9:45 Título por determinar - Proyecto ThinkinAzul
 >
-> Ponente: Esther/Marina
+> Ponente: Marina Cano Lamadrid
 >
 > Descripción: xxxxx
 
@@ -140,19 +140,17 @@
 ## **Ponentes**
 
 > ### **Nacionales**
->
+
 ><div style="overflow: hidden;">
 ><img src="Photo Marina.png" style="zoom:40%; float: left; margin-right: 10px;" />
 ><p>Marina Cano Lamadrid - <a href="mailto:marina.canol@umh.es">marina.canol@umh.es</a>. Investigadora postdoctoral en la UMH, miembro del Grupo de Calidad y Seguridad Alimentaria del Departamento de Tecnología Agroalimentaria e investigadora en CIAGRO-UMH. Experta en Análisis Sensorial de Alimentos y en Inocuidad Alimentaria. Colaboradora en el proyecto ThinkinAzul.</p>
 ></div>
-> 
->
+
 > ### **Internacionales**
->
+
 > Pablo Martinez Camblor - [Pablo.Martinez-Camblor@hitchcock.org](mailto:Pablo.Martinez-Camblor@hitchcock.org)
->
+
 > Susana Díaz Coto - [susana.diaz.coto@dartmouth.edu](mailto:susana.diaz.coto@dartmouth.edu)
->
 
 ><div style="overflow: hidden;">
 ><img src="Photo Leyre.png" style="zoom:40%; float: left; margin-right: 10px;" />
