@@ -142,7 +142,7 @@
 > ### **Nacionales**
 
 ><div style="overflow: hidden;">
-><img src="Photo Marina.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><img src="Photo Marina.png" style="zoom:30%; float: left; margin-right: 10px;" />
 ><p>Marina Cano Lamadrid - <a href="mailto:marina.canol@umh.es">marina.canol@umh.es</a>. Investigadora postdoctoral en la UMH, miembro del Grupo de Calidad y Seguridad Alimentaria del Departamento de Tecnología Agroalimentaria e investigadora en CIAGRO-UMH. Experta en Análisis Sensorial de Alimentos y en Inocuidad Alimentaria. Colaboradora en el proyecto ThinkinAzul.</p>
 ></div>
 
@@ -153,7 +153,7 @@
 > Susana Díaz Coto - [susana.diaz.coto@dartmouth.edu](mailto:susana.diaz.coto@dartmouth.edu)
 
 ><div style="overflow: hidden;">
-><img src="Photo Leyre.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><img src="Photo Leyre.png" style="zoom:50%; float: left; margin-right: 10px;" />
 ><p>Leyre Notario Barandiaran - <a href="mailto:Leyre.Notario.Barandiaran@dartmouth.edu">Leyre.Notario.Barandiaran@dartmouth.edu</a>. Investigadora post-doctoral. Farmacia y Epidemiología</p>
 ></div>
 
