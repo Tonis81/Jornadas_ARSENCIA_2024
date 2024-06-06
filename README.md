@@ -73,9 +73,9 @@
 >
 > Descripción: XXXX
 
-> #### 12:45 Conclusiones finales
+> #### 12:45 Metales en madres y en niños
 >
-> Ponente: xxxxxxx
+> Ponente: Dra. Eva Morales Bartolomé
 >
 > Descripción: XXXX
 
