@@ -142,7 +142,7 @@
 > ### **Nacionales**
 
 ><div style="overflow: hidden;">
-><img src="Photo Marina.png" style="zoom:30%; float: left; margin-right: 10px;" />
+><img src="Photo Marina_1.png" style="zoom:40%; float: left; margin-right: 10px;" />
 ><p>Marina Cano Lamadrid - <a href="mailto:marina.canol@umh.es">marina.canol@umh.es</a>. Investigadora postdoctoral en la UMH, miembro del Grupo de Calidad y Seguridad Alimentaria del Departamento de Tecnología Agroalimentaria e investigadora en CIAGRO-UMH. Experta en Análisis Sensorial de Alimentos y en Inocuidad Alimentaria. Colaboradora en el proyecto ThinkinAzul.</p>
 ></div>
 
