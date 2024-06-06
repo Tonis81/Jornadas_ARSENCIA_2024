@@ -147,7 +147,7 @@
 ></div>
 
 ><div style="overflow: hidden;">
-><img src="Photo Eva.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><img src="Photo Eva.png" style="zoom:35%; float: left; margin-right: 10px;" />
 ><p>Eva Morales Bartolomé - <a href="mailto:evamorales@um.es">evamorales@um.es</a>. Profesora contratada doctora de Medicina Preventiva y Salud Pública en la Universidad de Murcia y miembro del grupo de Investigación en Pediatría del IMIB-Arrixaca. Codirectora de la cohorte NELA, que investiga el impacto del ambiente temprano en la salud respiratoria infantil, con interés en los orígenes del asma y las alergias. Miembro del comité ejecutivo de GAN y de CIBERESP. Sus investigaciones se centran en estudios de cohortes al nacimiento, epidemiología del asma, y epidemiología ambiental y molecular.</p>
 ></div>
 
