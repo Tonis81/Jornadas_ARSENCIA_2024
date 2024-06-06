@@ -148,7 +148,10 @@
 
 > ### **Internacionales**
 
-> Pablo Martinez Camblor - [Pablo.Martinez-Camblor@hitchcock.org](mailto:Pablo.Martinez-Camblor@hitchcock.org)
+><div style="overflow: hidden;">
+><img src="Photo Pablo.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p>Pablo Martinez Camblor - <a href="mailto:Pablo.Martinez-Camblor@hitchcock.org">Pablo.Martinez-Camblor@hitchcock.org</a>. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+></div>
 
 > Susana Díaz Coto - [susana.diaz.coto@dartmouth.edu](mailto:susana.diaz.coto@dartmouth.edu)
 
@@ -178,8 +181,6 @@
 ><img src="Photo Manoli.png" style="zoom:40%; float: left; margin-right: 10px;" />
 ><p>Manuela Garcia De La Hera - <a href="mailto:manoli@umh.es">manoli@umh.es</a>. Catedrática de Medicina Preventiva y Salud Pública en la UMH. Miembro del grupo EPINUT, enfocado en investigar el papel de la dieta en el riesgo de enfermedades no transmisibles. Ha realizado estudios sobre supervivencia, estilos de vida y dieta, así como sobre Epidemiología de la Nutrición y Terapia Ocupacional en Trastornos del Neurodesarrollo. Colaboradora en los estudios INMA y PREDIMED-PLUS, y coautora de la app móvil Anticipa-TEA, dirigida a niños con Trastorno del Espectro Autista.</p>
 ></div>
->
->
 
 ><div style="overflow: hidden;">
 ><img src="Photo Laura Torr.png" style="zoom:40%; float: left; margin-right: 10px;" />
