@@ -99,11 +99,11 @@
 >
 > Descripción: xxxxxx
 
-> #### 9:45 Título por determinar - Proyecto ThinkinAzul
+> #### 9:45 Proyecto QualiFishPro
 >
 > Ponente: Dra. Marina Cano Lamadrid
 >
-> Descripción: xxxxx
+> Descripción: Uno de los objetivos del proyecto es la caracterización de los piensos formulados para dorada de acuicultura con proteínas alternativas junto con la evaluación del efecto de la alimentación de dichos piensos a lo largo del ciclo completo de vida en el contenido de contaminantes abióticos en las partes comestibles y vísceras.
 
 > #### 10:15 Título por determinar - Proyecto Dieta Mediterránea
 >
