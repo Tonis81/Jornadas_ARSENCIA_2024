@@ -229,6 +229,9 @@
 ><div style="overflow: hidden;">
 ><img src="Photo miguel.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Miguel García-Villarino - <a href="mailto:garciavmiguel@uniovi.es">garciavmiguel@uniovi.es</a>. Profesor Ayudante Doctor en el Área de Medicina Preventiva y Salud Pública de la Universidad de Oviedo. Adscrito al Instituto de Investigación Sanitaria del Principado de Asturias y al Instituto Universitario de Oncología del Principado de Asturias. Entre sus líneas prioritarias se encuentran el uso de los datos para la mejora en la atención a las personas con diabetes y el estudio epidemiológico de la exposición a contaminantes ambientales y su impacto en la salud humana, con enfoque en la diabetes mellitus tipo 2 en el Principado de Asturias.</p></div>
 
+><div style="overflow: hidden;">
+><img src="Photo miguel.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Rocío Fernández Iglesias - <a href="mailto:fernandezirocio@uniovi.es">fernandezirocio@uniovi.es</a>. Profesora en Estadística e Investigación Operativa y Didáctica de las Matemáticas en la Universidad de Oviedo, y Doctora en Biomedicina y Oncología Molecular por la misma universidad. Su principal línea de investigación se centra en la aplicación de métodos estadísticos en el campo de la epidemiología y la salud pública. Adscrita al Instituto de Investigaciones Sanitarias del Principado de Asturias y al Instituto Universitario de Oncología del Principado de Asturias.</p></div>
+
 <img src="Tap.png" style="zoom:80%;" />
 
 > ## **Comité científico**:
