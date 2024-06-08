@@ -165,7 +165,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Leyre_1.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Leyre Notario Barandiaran - <a href="mailto:Leyre.Notario.Barandiaran@dartmouth.edu">Leyre.Notario.Barandiaran@dartmouth.edu</a>. Investigadora post-doctoral. Farmacia y Epidemiología</p>
+><p>Leyre Notario Barandiaran - <a href="mailto:Leyre.Notario.Barandiaran@dartmouth.edu">Leyre.Notario.Barandiaran@dartmouth.edu</a>. Investigadora postdoctoral en el grupo de Epidemiologia en Dartmouth College (Geisel School of Medicine). Líneas de investigación principales: Epidemiología de la Nutrición y Epidemiología Ambiental en relación a diversos outcomes como el neurodesarrollo y salud cardiovascular. Investigadora colaboradora en estudios de relevancia internacional como PREDIMED-Plus, y los estudios de cohorte de Nacimiento INMA, NELA y NHBCS. También participa como investigadora colaboradora en diversos proyectos en el programa ECHO del NIH.</p>
 ></div>
 
 <img src="Tap.png" style="zoom:80%;" />
