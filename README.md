@@ -160,7 +160,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Susana.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Susana Díaz Coto - <a href="mailto:susana.diaz.coto@dartmouth.edu">susana.diaz.coto@dartmouth.edu</a>. xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</p>
+><p>Susana Díaz Coto - <a href="mailto:Susana.Diaz.Coto@hitchcock.org">Susana.Diaz.Coto@hitchcock.org </a>. Doctora en Matemáticas y Estadística por la Universidad de Oviedo y Científica Senior en Dartmouth Health. Actualmente proporciona soporte metodológico en Estadística a los grupos de investigación del Departamento de Ortopedia. Previamente trabajó como Investigadora Científica en el Departamento de Epidemiología de Dartmouth College, colaborando en los estudios New Hampshire Birth Cohort Study (NHBCS) y Environmental Children's Health Outcomes (ECHO). También colabora como Estadística en el estudio INMA. Línea de investigación: estimación no paramétrica de métodos de evaluación de la capacidad discriminatoria de biomarcadores en problemas de clasificación binaria.</p>
 ></div>
 
 ><div style="overflow: hidden;">
