@@ -155,7 +155,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Pablo.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Pablo Martinez Camblor - <a href="mailto:Pablo.Martinez-Camblor@hitchcock.org">Pablo.Martinez-Camblor@hitchcock.org</a>. "Research Biostatistician" en Dartmouth Health (New Hampshire, USA), matemático y doctor en estadística-matemática por la Universidad de Oviedo (Asturias). Es un estadístico con más de 25 años de experiencia en Salud Pública e investigación clínica, incluyendo el Centro Internacional de Medicina Respiratoria (CIMERA), el Departamento de Salud Pública de Guipúzcoa y el Hospital Universitario Central de Asturias (HUCA), entre otros. Ha impartido cursos en varias universidades de diferentes países, incluyendo Dartmouth College (NH, USA), donde actualmente participa en el programa de Máster en Ciencias Biomédicas Cuantitativas, impartido por la Geisel School of Medicine.</p>
+><p>Pablo Martinez Camblor - <a href="mailto:Pablo.Martinez-Camblor@hitchcock.org">Pablo.Martinez-Camblor@hitchcock.org</a>. "Research Biostatistician" en Dartmouth Health (New Hampshire, USA), doctor en estadística-matemática por la Universidad de Oviedo (Asturias). Con más de 25 años de experiencia en Salud Pública e investigación clínica, ha trabajado en instituciones como CIMERA, el Departamento de Salud Pública de Guipúzcoa y el HUCA. Ha impartido cursos en varias universidades, incluyendo Dartmouth College, donde actualmente participa en el programa de Máster en Ciencias Biomédicas Cuantitativas de la Geisel School of Medicine.</p>
 ></div>
 
 ><div style="overflow: hidden;">
