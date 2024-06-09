@@ -55,7 +55,7 @@
 
 > #### 10:45 <span style="color:darkred;">**Pausa café**</span>
 
-> #### 11:15 Título por determinar
+> #### 11:15 El rol de los estadísticos en contextos clínicos
 >
 > Ponente: Dr. Pablo Martínez Camblor
 >
