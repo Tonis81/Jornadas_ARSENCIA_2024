@@ -55,11 +55,11 @@
 
 > #### 10:45 <span style="color:darkred;">**Pausa café**</span>
 
-> #### 11:15 El rol de los estadísticos en contextos clínicos
+> #### 11:15 El rol de l@s estadístic@s en contextos clínicos
 >
 > Ponente: Dr. Pablo Martínez Camblor
 >
-> Descripción: XXXX
+> Descripción: Breve revisión histórica personal de mis más de 25 años en bioestadística. Analizaré los cambios y la evolución de los métodos y la percepción de la estadística, así como temas fundamentales en la ciencia actual como la reproducibilidad, los contextos causales y conceptos similares.
 
 > #### 11:45 Título por determinar
 >
