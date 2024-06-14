@@ -237,6 +237,9 @@
 ><div style="overflow: hidden;">
 ><img src="Photo Rocio.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Rocío Fernández Iglesias - <a href="mailto:fernandezirocio@uniovi.es">fernandezirocio@uniovi.es</a>. Profesora en Estadística e Investigación Operativa y Didáctica de las Matemáticas en la Universidad de Oviedo, y Doctora en Biomedicina y Oncología Molecular por la misma universidad. Su principal línea de investigación se centra en la aplicación de métodos estadísticos en el campo de la epidemiología y la salud pública. Adscrita al Instituto de Investigaciones Sanitarias del Principado de Asturias y al Instituto Universitario de Oncología del Principado de Asturias.</p></div>
 
+><div style="overflow: hidden;">
+><img src="Photo Sonia.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Sonia Pérez Fernández - <a href="mailto:soniapfdez@gmail.com">soniapfdez@gmail.com</a>. Doctora en Matemáticas y Estadística por la Universidad de Oviedo y la Universidad Técnica de Viena. Actualmente trabaja como Profesora Ayudante Doctora del área de Estadística e Investigación Operativa de la Universidad de Oviedo, colaborando en proyectos de avances en la comparación, la clasificación y el análisis de datos de entornos socioeconómicos y biosanitarios. Su línea de investigación se centra en la generalización de la curva ROC para explorar conjuntos de clasificación binaria que optimicen la capacidad discriminatoria de biomarcadores univariantes y multivariantes.</p></div>
+
 <img src="Tap.png" style="zoom:80%;" />
 
 > ## **Comité científico**:
