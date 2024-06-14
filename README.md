@@ -14,11 +14,24 @@
 
 <img src="Image Intro.png" style="zoom:80%;" />
 
-<br/>
-
 ><div style="overflow: hidden;">
 ><img src="Email.png" style="zoom:40%; float: left; margin-right: 10px;" />
 ><p> <a href="mailto:jornadasarsencia@gmail.com">jornadasarsencia@gmail.com</a>. No dudes en contactar para cualquier consulta.</p>
+></div>
+
+><div style="overflow: hidden;">
+><img src="Inscripcion.png" style="zoom:35%; float: left; margin-right: 10px;" />
+><a href="https://docs.google.com/forms/d/e/1FAIpQLScIfY-1FIBzalcdYrARaMbFcnxCOlpydFOttYMIVB-W0YJmUg/viewform">Enlace inscripción</a>
+></div>
+
+><div style="overflow: hidden;">
+><img src="Comunicacion.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><a href="https://docs.google.com/forms/d/e/1FAIpQLSdyGG_DA9wiuElFUp80cyRSuWOf8m4h7CgVNSFPJQTzNLBPqQ/viewform">Envío comunicación</a>
+></div>
+
+><div style="overflow: hidden;">
+><img src="Templates.png" style="zoom:38%; float: left; margin-right: 10px;" />
+><a href="https://drive.google.com/drive/folders/1GMEf6Q1cIKK-5A3YU4VQiUWtfoz0FgbQ?usp=drive_link">Descarga plantillas</a>
 ></div>
 
 ## **Presentación**
