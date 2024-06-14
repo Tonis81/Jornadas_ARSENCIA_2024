@@ -151,6 +151,11 @@
 ><p>Eva Morales Bartolomé - <a href="mailto:evamorales@um.es">evamorales@um.es</a>. Profesora contratada doctora de Medicina Preventiva y Salud Pública en la Universidad de Murcia y miembro del grupo de Investigación en Pediatría del IMIB-Arrixaca. Codirectora de la cohorte NELA, que investiga el impacto del ambiente temprano en la salud respiratoria infantil, con interés en los orígenes del asma y las alergias. Miembro del comité ejecutivo de GAN y de CIBERESP. Sus investigaciones se centran en estudios de cohortes al nacimiento, epidemiología del asma, y epidemiología ambiental y molecular.</p>
 ></div>
 
+><div style="overflow: hidden;">
+><img src="Photo Luis.png" style="zoom:35%; float: left; margin-right: 10px;" />
+><p>Luis Noguera Artiaga - <a href="mailto:lnoguera@umh.es">lnoguera@umh.es</a>. Profesor Ayudante Doctor en la UMH. Miembro del grupo de investigación de Calidad y Seguridad Alimentaria, del Instituto de Investigación e Innovación Agroalimentario y Agroambiental de la UMH. Sus investigaciones se fundamentan en el estudio del análisis sensorial en los alimentos y en la incidencia que las prácticas agrícolas tienen sobre la calidad de estos. Además, estudia la incidencia que el aroma tiene sobre el sabor y la calidad de los alimentos mediante el análisis de sus compuestos orgánicos volátiles. Es director del Panel de Cata de la Denominación de Origen Protegida Vinos de Alicante y director del Panel de Cata de la Denominación de Origen Protegida Pimentón de Murcia.</p>
+></div>
+
 > ### **Internacionales**
 
 ><div style="overflow: hidden;">
