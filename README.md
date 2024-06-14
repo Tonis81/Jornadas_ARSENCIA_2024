@@ -14,6 +14,13 @@
 
 <img src="Image Intro.png" style="zoom:80%;" />
 
+<br/>
+
+><div style="overflow: hidden;">
+><img src="Email.png" style="zoom:40%; float: left; margin-right: 10px;" />
+><p> <a href="mailto:jornadasarsencia@gmail.com">jornadasarsencia@gmail.com</a>. No dudes en contactar para cualquier consulta.</p>
+></div>
+
 ## **Presentación**
 
 <p style="font-size: 14px;"><em>La salud y la alimentación están estrechamente vinculadas. La cantidad y variedad de alimentos que forman parte de nuestra dieta, junto con los modelos de producción de alimentos que actualmente están siendo revisados para promover una mayor sostenibilidad, pueden influir tanto en la ingesta de nutrientes como en la exposición a sustancias nocivas.
