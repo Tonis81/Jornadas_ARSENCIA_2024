@@ -6,7 +6,7 @@
 
 <br/>
 
-[versión en inglés](https://tonis81.github.io/Jornadas_ARSENCIA_2024_en/)
+[English version](https://tonis81.github.io/Jornadas_ARSENCIA_2024_en/)
 
 ## <span style="color:darkblue; font-size: larger">**28 y 29 de noviembre de 2024 en el [Aula Magna](https://maps.app.goo.gl/tkF3bYfJ57GDMJ846) en Elche (Universidad Miguel Hernández)**</span>
 
