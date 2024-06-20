@@ -262,27 +262,31 @@
 
 > Antonio J. Signes Pastor, Universidad Miguel Hernández (España)
 
+
 > ### Miembros del comité
 
 > Jesús Vioque López, Universidad Miguel Hernández (España)
->
+
 > Manuela García de la Hera, Universidad Miguel Hernández (España)
->
+
 > Laura Torres Collado, Universidad Miguel Hernández (España)
->
+
 > Sandra González Palacios, Universidad Miguel Hernández (España)
->
+
 > Alejandro Oncina Cánovas, Universidad Miguel Hernández (España)
->
+
 > Laura M. Compañ Gabucio, Universidad Miguel Hernández (España)
->
+
 > Carolina Ojeda Belokon, Universidad Miguel Hernández (España)
->
+
 > Diana Mancheño Bañón, Universidad Miguel Hernández (España)
->
+
 > María del Carmen Esquiva Antonlino, Universidad Miguel Hernández (España) 
->
+
 > Leyre Notario Barandiaran, Dartmouth College (Estados Unidos)
+
+><div style="overflow: hidden;">
+><img src="Photo Jacek.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Jacek Lyczko - <a href="mailto:jacek.lyczko@upwr.edu.pl">jacek.lyczko@upwr.edu.pl</a>.Jacek Lyczko, Ph.D., se graduó de la Facultad de Biotecnología y Ciencias de los Alimentos de la Universidad de Ciencias de la Vida en Wroclaw en 2017. Obtuvo su doctorado en tecnología de alimentos y nutrición en 2021, seguido de su habilitación en 2024. Actualmente trabaja en el Departamento de Química de Alimentos y Biocatálisis en la UPWr. La investigación del Dr. Lyczko se centra en la analítica química, particularmente en la cromatografía, con énfasis en la calidad de los alimentos. Se especializa en el análisis de aceites esenciales y perfiles aromáticos de hierbas, especias y plantas farmacopeas, y estudia el impacto de los procesos de secado en la calidad de las plantas. Ha recibido formación en análisis cromatográfico en Polonia, Alemania y Japón. Ha gestionado proyectos como "Calidad Sensorial del Olor de las Hierbas" (PRELUDIUM-18) y actualmente supervisa "Nuevos Agentes Activos del Apetito" (Leader competition XI).</p></div>
 
 <img src="Tap.png" style="zoom:80%;" />
 
