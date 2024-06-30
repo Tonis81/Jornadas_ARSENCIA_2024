@@ -136,7 +136,7 @@
 >
 > Descripción: xxxxx
 
-> #### 10:45 <span style="color:darkred;">**Cata - Pendiente por definir**</span>
+> #### 10:45 Análisis sensorial <span style="color:darkred;">**Cata - Pendiente por definir**</span>
 >
 > Ponente: Dr. Luis Noguera Artiaga
 >
