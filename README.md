@@ -137,6 +137,10 @@
 > Descripción: xxxxx
 
 > #### 10:45 <span style="color:darkred;">**Cata - Pendiente por definir**</span>
+>
+> Ponente: Dr. Luis Noguera Artiaga
+>
+> Descripción: xxxxx
 
 > #### 13:15 Clausura
 >
