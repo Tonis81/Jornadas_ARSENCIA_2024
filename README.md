@@ -169,7 +169,10 @@
 ><p>Luis Noguera Artiaga - <a href="mailto:lnoguera@umh.es">lnoguera@umh.es</a>. Profesor Ayudante Doctor en la UMH. Miembro del grupo de investigación de Calidad y Seguridad Alimentaria, del Instituto de Investigación e Innovación Agroalimentario y Agroambiental de la UMH. Sus investigaciones se fundamentan en el estudio del análisis sensorial en los alimentos y en la incidencia que las prácticas agrícolas tienen sobre la calidad de estos. Además, estudia la incidencia que el aroma tiene sobre el sabor y la calidad de los alimentos mediante el análisis de sus compuestos orgánicos volátiles. Es director del Panel de Cata de la Denominación de Origen Protegida Vinos de Alicante y director del Panel de Cata de la Denominación de Origen Protegida Pimentón de Murcia.</p>
 ></div>
 
-><Lucia Andreu Coll
+><div style="overflow: hidden;">
+><img src="Photo Lucia.png" style="zoom:35%; float: left; margin-right: 10px;" />
+><p>Lucía Andreu Coll - <a href="mailto:l.andreu@umh.es">l.andreu@umh.es</a>. Doctora en Recursos y Tecnologías Agrarias, Agroambientales y Alimentarias por la Universidad Miguel Hernández. Miembro del grupo de investigación en Fruticultura y Técnicas de Producción en CIAGRO-UMH. Su investigación se centra en la producción y calidad de cultivos ambientalmente sostenibles. Actualmente colabora en el proyecto AGROALNEXT/2022/040, evaluando técnicas de riego deficitario en frutales de hueso.</p>
+></div>
 
 > ### **Internacionales**
 
