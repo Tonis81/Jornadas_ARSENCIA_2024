@@ -170,7 +170,7 @@
 ></div>
 
 ><div style="overflow: hidden;">
-><img src="Photo Lucia.png" style="zoom:35%; float: left; margin-right: 10px;" />
+><img src="photo Lucia.png" style="zoom:35%; float: left; margin-right: 10px;" />
 ><p>Lucía Andreu Coll - <a href="mailto:l.andreu@umh.es">l.andreu@umh.es</a>. Doctora en Recursos y Tecnologías Agrarias, Agroambientales y Alimentarias por la Universidad Miguel Hernández. Miembro del grupo de investigación en Fruticultura y Técnicas de Producción en CIAGRO-UMH. Su investigación se centra en la producción y calidad de cultivos ambientalmente sostenibles. Actualmente colabora en el proyecto AGROALNEXT/2022/040, evaluando técnicas de riego deficitario en frutales de hueso.</p>
 ></div>
 
