@@ -130,12 +130,6 @@
 >
 > Descripción: xxxxx
 
-> #### 11:45 Despedida por el fin de estudio PREDIMED Plus
->
-> Ponente: xxxxx
->
-> Descripción: xxxxx
-
 > #### 12:15 Análisis sensorial <span style="color:darkred;">**Cata - Pendiente por definir**</span>
 >
 > Ponente: Dr. Luis Noguera Artiaga
@@ -206,7 +200,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Jesus Vioque.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Catedrático de Medicina Preventiva y Salud Pública en la UMH. Obtuvo una maestría en salud pública y formación en epidemiología nutricional en Harvard. Dirige el grupo EPINUT, que investiga el papel de la dieta en enfermedades no transmisibles. Ha liderado estudios como PANESOES, sobre dieta y riesgo de cáncer, y el Estudio INMA, sobre contaminantes y desarrollo infantil. Su grupo participa en PREDIMED-PLUS, que evalúa una dieta mediterránea hipocalórica en el riesgo cardiovascular y diabetes.</p></div>
+><p>Jesús Vioque López - <a href="mailto:vioque@umh.es">vioque@umh.es</a>. Catedrático de Medicina Preventiva y Salud Pública en la UMH. Obtuvo una maestría en salud pública y formación en epidemiología nutricional en Harvard. Dirige el grupo de Epidemiología de la Nutrición (EPINUT), que investiga el papel de la dieta en enfermedades no transmisibles. Ha liderado estudios como PANESOES, sobre dieta y riesgo de cáncer, y el Estudio INMA, sobre contaminantes y desarrollo infantil. Su grupo participa en PREDIMED-PLUS, que evalúa una dieta mediterránea hipocalórica en el riesgo cardiovascular y diabetes.</p></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Manoli.png" style="zoom:40%; float: left; margin-right: 10px;" />
@@ -220,7 +214,7 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Alex.png" style="zoom:42%; float: left; margin-right: 10px;" />
-><p>Alejandro Oncina Canovas - <a href="mailto:aoncina@umh.es">aoncina@umh.es</a>. Investigador predoctoral del grupo de Epidemiología de la Nutrición (EPINUT) de la UMH. Adscrito a ISABIAL y a CIBERESP. Su principal línea de investigación se centra en examinar la asociación entre la adherencia a patrones dietéticos pro-vegetarianos (patrones de dieta que simulan a las dietas vegetarianas) y diferentes resultados en salud. Además, es investigador colaborador en ARSENCIA y en otros estudios de relevancia internacional como PREDIMED-Plus y el estudio de cohortes INMA. </p>
+><p>Alejandro Oncina Canovas - <a href="mailto:aoncina@umh.es">aoncina@umh.es</a>. Investigador postdoctoral del grupo EPINUT de la UMH. Adscrito a ISABIAL y a CIBERESP. Su principal línea de investigación se centra en examinar la asociación entre la adherencia a patrones dietéticos pro-vegetarianos (patrones de dieta que simulan a las dietas vegetarianas) y diferentes resultados en salud. Además, es investigador colaborador en ARSENCIA y en otros estudios de relevancia internacional como PREDIMED-Plus y el estudio de cohortes INMA. </p>
 ></div>
 
 ><div style="overflow: hidden;">
@@ -230,21 +224,21 @@
 
 ><div style="overflow: hidden;">
 ><img src="Photo Carolina.png" style="zoom:38%; float: left; margin-right: 10px;" />
-><p>Carolina Ojeda Belokon - <a href="mailto:cojeda@umh.es">cojeda@umh.es</a>. Graduada en Nutrición Humana y Dietética por la Universidad de Alicante (UA) y Máster de Salud Pública, conjunto Universidad Miguel Hernández (UMH) y UA. Actualmente, cuenta con contrato predoctoral de la UMH en el grupo de Epidemiología de la Nutrición (EPINUT) de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH.</p>
+><p>Carolina Ojeda Belokon - <a href="mailto:cojeda@umh.es">cojeda@umh.es</a>. Graduada en Nutrición Humana y Dietética por la Universidad de Alicante (UA) y Máster de Salud Pública, conjunto UMH y UA. Actualmente, cuenta con contrato predoctoral de la UMH en el grupo de EPINUT de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH.</p>
 ></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Diana.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Diana Mancheño Bañon - <a href="mailto:dmancheno@umh.es">dmancheno@umh.es</a>.Graduada en Terapia Ocupacional por la UMH y Máster de Salud Pública, conjunto Universidad Miguel Hernández (UMH) y Universidad de Alicante (UA). Actualmente, cuenta con contrato del Programa INVESTIGO de ISABIAL como investigadora colaboradora en el grupo de Epidemiología de la Nutrición (EPINUT) de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH.</p></div>
+><p>Diana Mancheño Bañon - <a href="mailto:dmancheno@umh.es">dmancheno@umh.es</a>.Graduada en Terapia Ocupacional por la UMH y Máster de Salud Pública, conjunto UMH y UA. Actualmente, cuenta con contrato del Programa INVESTIGO de ISABIAL como investigadora colaboradora en el grupo de EPINUT de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH.</p></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Mari Carmen.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a>. Graduada en Veterinaria por la Universidad de Murcia (UMU) y Máster de Salud Pública, conjunto UMH y Universidad de Alicante (UA). Actualmente, cuenta con contrato del Programa INVESTIGO de ISABIAL como investigadora colaboradora en el grupo de Epidemiología de la Nutrición (EPINUT) de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH. </p>
+><p>Maria Del Carmen Esquiva Antolino - <a href="mailto:mesquiva@umh.es">mesquiva@umh.es</a>. Graduada en Veterinaria por la Universidad de Murcia (UMU) y Máster de Salud Pública, conjunto UMH y UA. Actualmente, cuenta con contrato del Programa INVESTIGO de ISABIAL como investigadora colaboradora en el grupo de Epidemiología de la Nutrición (EPINUT) de la UMH participando en diferentes proyectos como PREDIMED-Plus y realiza su tesis doctoral en el Programa de Doctorado en Salud Pública, Ciencias Médicas y Quirúrgicas de la UMH. </p>
 ></div>
 
 ><div style="overflow: hidden;">
 ><img src="Photo Sandra.png" style="zoom:40%; float: left; margin-right: 10px;" />
-><p>Sandra Gonzalez Palacios - <a href="mailto:sandra.gonzalezp@umh.es">sandra.gonzalezp@umh.es</a>. Investigadora postdoctoral del CIBER de Epidemiología y Salud Pública (CIBERESP). Miembro del grupo EPINUT y del Instituto de Investigación Sanitaria y Biomédica de Alicante (ISABIAL). Dietista-Nutricionista, Doctora en Salud Pública y especialista en Epidemiología de la Nutrición. Investigadora principal del proyecto FIS PI23/01568 y del Proyecto Intramural CIBERESP ESP24PI02. Colaboradora en otros estudios como el PREDIMED Plus y el estudio INfancia y Medio Ambiente.</p>
+><p>Sandra Gonzalez Palacios - <a href="mailto:sandra.gonzalezp@umh.es">sandra.gonzalezp@umh.es</a>. Investigadora postdoctoral de CIBERESP. Miembro del grupo EPINUT y de ISABIAL. Dietista-Nutricionista, Doctora en Salud Pública y especialista en Epidemiología de la Nutrición. Investigadora principal del proyecto FIS PI23/01568 y del Proyecto Intramural CIBERESP ESP24PI02. Colaboradora en otros estudios como el PREDIMED Plus y el estudio INfancia y Medio Ambiente.</p>
 ></div>
 
 <img src="Tap.png" style="zoom:80%;" />
