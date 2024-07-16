@@ -88,7 +88,7 @@
 >
 > Descripción: XXXX
 
-> #### 13:00 <span style="color:darkred;">**Pausa activa**</span>
+> #### 13:15 <span style="color:darkred;">**Pausa activa**</span>
 
 > #### 13:30 <span style="color:darkred;">**Comida Tapas y Gurus**</span>
 
@@ -108,13 +108,13 @@
 >
 > Descripción: xxxxxx
 
-> #### 9:45 Acuicultura, calidad e innovación (AQUI) 
+> #### 9:45 Acuicultura, calidad e innovación 
 >
 > Ponente: Dra. Marina Cano Lamadrid
 >
 > Descripción: Uno de los objetivos del proyecto es la caracterización de los piensos formulados para dorada de acuicultura con proteínas alternativas junto con la evaluación del efecto de la alimentación de dichos piensos a lo largo del ciclo completo de vida en el contenido de contaminantes abióticos en las partes comestibles y vísceras.
 
-> #### 10:15 Título por determinar - Proyecto Dieta Mediterránea
+> #### 10:00 Título por determinar - Proyecto Dieta Mediterránea
 >
 > Ponente: Dra. Sandra González Palacios
 >
@@ -122,21 +122,19 @@
 
 > #### 10:30 <span style="color:darkred;">**Pausa activa**</span>
 
-> #### 10:45 <span style="color:darkred;">**Pausa Café**</span>
-
-> #### 11:15 Exposición participantes PREDIMED Plus
+> #### 11:00 Exposición participantes PREDIMED Plus
 >
 > Ponente: xxxxx
 >
 > Descripción: xxxxx
 
-> #### 12:15 Análisis sensorial <span style="color:darkred;">**Cata - Pendiente por definir**</span>
+> #### 11:30 Análisis sensorial <span style="color:darkred;">**Cata - Pendiente por definir**</span>
 >
 > Ponente: Dr. Luis Noguera Artiaga
 >
 > Descripción: xxxxx
 
-> #### 13:15 Clausura
+> #### 13:00 Clausura
 >
 > Dr. Antonio J. Signes Pastor
 
