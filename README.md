@@ -104,7 +104,7 @@
 
 > #### 9:30 Título por determinar - Proyecto Agroalnext
 >
-> Ponente: Paqui/Lucia
+> Ponente: Lucia Andreu Coll
 >
 > Descripción: xxxxxx
 
