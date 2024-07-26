@@ -120,7 +120,9 @@
 >
 > Descripción: xxxxx
 
-> #### 10:30 <span style="color:darkred;">**Pausa activa**</span>
+> #### 10:15 <span style="color:darkred;">**Pausa activa**</span>
+
+> #### 10:30 <span style="color:darkred;">**Pausa café**</span>
 
 > #### 11:00 Exposición participantes PREDIMED Plus
 >
