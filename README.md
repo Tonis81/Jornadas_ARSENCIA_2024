@@ -48,19 +48,19 @@
 >
 > Ponente: Prof. Ángel Carbonell Barrachina
 >
-> Descripción: XXXX
+> Descripción: El Prof. Ángel Carbonell Barrachina, Vicerrector de Investigación y Transferencia de la UMH, dará inicio oficialmente a las jornadas.
 
 > #### 9:45 Epidemiología de la Nutrición
 >
 > Ponente: Prof. Jesús Vioque López
 >
-> Descripción: XXXX
+> Descripción: El Prof. Jesús Vioque López es el director del grupo de investigación Epidemiología de la Nutrición (EPINUT), donde se gestaron estas jornadas. El Prof. Vioque introducirá el papel de la dieta en la salud.
 
 > #### 10:15 Contaminación y Salud
 >
 > Ponente: Dr. Antonio J. Signes Pastor
 >
-> Descripción: XXXX
+> Descripción: El Dr. Antonio J. Signes Pastor es Investigador Senior financiado por el programa GenT de la Generalitat Valenciana. El Dr. Signes Pastor presentará el papel de la epidemiología de los elementos traza, incluyendo su perspectiva de seguridad y calidad alimentaria.
 
 > #### 10:45 <span style="color:darkred;">**Pausa café**</span>
 
@@ -74,7 +74,7 @@
 >
 > Ponente: Dra. Susana Díaz Coto
 >
-> Descripción: XXXX
+> Descripción: La Dra. Susana Díaz Coto presentará el trabajo que lidera sobre la exposición a mezclas de metales y el desarrollo neurológico en niños de 4 a 5 años, en el estudio de cohorte INfancia y Medio Ambiente (INMA).
 
 > #### 12:15 Título por determinar
 >
