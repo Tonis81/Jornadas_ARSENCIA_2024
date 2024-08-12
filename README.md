@@ -102,11 +102,11 @@
 
 > #### 9:00 Recepción de asistentes
 
-> #### 9:30 Título por determinar - Proyecto Agroalnext
+> #### 9:30 Proyecto Agroalnext - Riego Deficitario Regulado
 >
-> Ponente: Lucia Andreu Coll
+> Ponente: Dra. Lucía Andreu Coll
 >
-> Descripción: xxxxxx
+> Descripción: La Dra. Lucía Andreu Coll presentará el proyecto Agroalnext y expondrá los resultados de su investigación sobre el impacto del riego deficitario regulado en la actividad antioxidante, el perfil de ácidos grasos, los compuestos volátiles y la calidad del fruto de la variedad de albaricoque 'Mirlo Rojo'.
 
 > #### 9:45 Acuicultura, calidad e innovación 
 >
