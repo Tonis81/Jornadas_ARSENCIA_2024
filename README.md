@@ -123,17 +123,17 @@
 
 > #### 10:30 <span style="color:darkred;">**Pausa café**</span>
 
-> #### 11:00 Exposición participantes PREDIMED Plus
+> #### 11:00 Experiencia participantes del proyecto Predimed-Plus
 >
 > Ponente: xxxxx
 >
-> Descripción: xxxxx
+> Descripción: Predimed-Plus evalúa el efecto de una intervención intensiva con objetivos de pérdida de peso, basada en el consumo de dieta mediterránea hipocalórica, promoción de actividad física y terapia conductual en la prevención de enfermedades cardiovasculares.
 
-> #### 11:30 Análisis sensorial <span style="color:darkred;">**Cata - Pendiente por definir**</span>
+> #### 11:30 Análisis sensorial <span style="color:darkred;">**Cata**</span>
 >
-> Ponente: Dr. Luis Noguera Artiaga
+> Ponente: Dr. Luís Noguera Artiaga
 >
-> Descripción: xxxxx
+> Descripción: El Dr. Luís Noguera Artiaga, impartirá una introducción al análisis sensorial y nos guiará en una cata.
 
 > #### 13:00 Clausura
 >
@@ -300,8 +300,17 @@
 
 > ## **Enlaces de interés:**
 
-> [EPINUT](https:XXXXXXX)
-
+> [EPINUT](https://epinut.umh.es/en/epinut/)
+> [CIAGRO-UMH](https://ciagro.umh.es/)
+> [ThinkinAzul](https://thinkinazul.es/)
+> [Predimed-Plus](https://www.predimedplus.com/en/)
+> [Agroalnext](https://agroalnextgva.umh.es/agroalnext-gva/)
+> [Plan GenT GVA](https://ceice.gva.es/es/web/ciencia/convocatories_2024/d-programa-per-al-suport-a-persones-investigadores-amb-talent-pla-gent)
+> [Máster Salud Pública - UMH](https://msp.umh.es/)
+> [NHBCS](https://geiselmed.dartmouth.edu/childrenshealth/new-hampshire-birth-cohort-study/)
+> [INMA](https://www.proyectoinma.org/en/)
+> [NELA](https://nela.imib.es/)
+> [ARSENCIA](https://tonis81.github.io/ARSENCIA-Project/)
 
 
 <img src="Tap.png" style="zoom:80%;" />
