@@ -76,11 +76,11 @@
 >
 > Descripción: La Dra. Susana Díaz Coto presentará el trabajo que lidera sobre la exposición a mezclas de metales y el desarrollo neurológico en niños de 4 a 5 años, en el estudio de cohorte INfancia y Medio Ambiente (INMA).
 
-> #### 12:15 Título por determinar
+> #### 12:15 Exposición a factores ambientales en el estudio de cohorte de nacimiento NHBCS
 >
 > Ponente: Dra. Leyre Notario Barandiarán
 >
-> Descripción: XXXX
+> Descripción: La Dra. Leyre Notario Barandiarán presentará la cohorte de nacimiento, New Hampshire Birth Cohort Study (NHBCS), y detallará su investigación sobre la exposición a metales a través de la dieta.
 
 > #### 12:45 Metales en madres y en niños
 >
