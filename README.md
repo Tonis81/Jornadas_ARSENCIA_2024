@@ -108,17 +108,16 @@
 >
 > Descripción: La Dra. Lucía Andreu Coll presentará el proyecto Agroalnext y expondrá los resultados de su investigación sobre el impacto del riego deficitario regulado en la actividad antioxidante, el perfil de ácidos grasos, los compuestos volátiles y la calidad del fruto de la variedad de albaricoque 'Mirlo Rojo'.
 
-> #### 9:45 Acuicultura, calidad e innovación 
+> #### 9:45 Acuicultura, calidad e innovación - Proyecto Thinkin Azul
 >
 > Ponente: Dra. Marina Cano Lamadrid
 >
 > Descripción: Uno de los objetivos del proyecto es la caracterización de los piensos formulados para dorada de acuicultura con proteínas alternativas junto con la evaluación del efecto de la alimentación de dichos piensos a lo largo del ciclo completo de vida en el contenido de contaminantes abióticos en las partes comestibles y vísceras.
 
-> #### 10:00 Título por determinar - Proyecto Dieta Mediterránea
->
+> #### 10:00 Transmisión de la Dieta Mediterránea en la infancia en INMA
 > Ponente: Dra. Sandra González Palacios
 >
-> Descripción: xxxxx
+> Descripción: La Dra. Sandra González Palacios presentará la cohorte INMA y sus hallazgos sobre la transmisión de la dieta mediterránea de madres a hijos, su relación con contaminantes ambientales y el riesgo cardiometabólico.
 
 > #### 10:15 <span style="color:darkred;">**Pausa activa**</span>
 
