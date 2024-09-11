@@ -330,6 +330,6 @@
 
 <br/>
 
-<img src="Logos1.png" style="zoom:100%;" />
+<img src="Logos2.png" style="zoom:100%;" />
 
 <img src="bottom.png" style="zoom:80%;" />
