@@ -245,6 +245,9 @@
 > ## **Comité evaluador**:
 
 ><div style="overflow: hidden;">
+><img src="Esther Sendra.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Esther Sendra Nadal - <a href="mailto:esther.sendra@umh.es">esther.sendra@umh.es</a>. Catedrática de Universidad del Área de Tecnologia de Alimentos en la UMH. Miembro del grupo de investigación de Calidad y Seguridad Alimentaria, del Instituto de Investigación e Innovación Agroalimentario y Agroambiental de la UMH. Doctora en Veterinaria. Imparte docencia de Normalización y Legislación Alimentaria, su campo de investigación se centra en el efecto de las prácticas agronómicas en la fracción grasa y compuestos bioactivos en productos agrícolas y en el efecto de materias primas alternativas para dietas de animales en la calidad de los productos animales obtenidos. Es directora del Máster de Agroecología, Desarrollo Rural y Agroturismo. Es investigadora principal de uno de los subproyectos de las expresiones de interés en Ciencias Marinas ThinkInAzul.</p></div>
+
+><div style="overflow: hidden;">
 ><img src="Photo Paqui_1.png" style="zoom:40%; float: left; margin-right: 10px;" /><p>Francisca Hernández García - <a href="mailto:francisca.hernandez@umh.es">francisca.hernandez@umh.es</a>. Catedrática en la UMH, miembro del Grupo de Investigación en Fruticultura y Técnicas de Producción, Investigadora Titular en CIAGRO-UMH y miembro de la Comisión Académica del Programa de Doctorado en Recursos y Tecnologías Agrarias, Agroambientales y Alimentarias. Experta en Fruticultura y Técnicas de Producción. Investigadora principal del proyecto HidroSOStoneFruit y colaboradora en el proyecto ThinkinAzul.</p></div>
 
 ><div style="overflow: hidden;">
