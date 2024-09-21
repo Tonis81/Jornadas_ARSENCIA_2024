@@ -125,7 +125,7 @@
 
 > #### 11:00 Experiencia participantes del proyecto Predimed-Plus
 >
-> Ponente: xxxxx
+> Ponente: Maria Cristina Godoy y Francisco Sempere Botella
 >
 > Descripción: Predimed-Plus evalúa el efecto de una intervención intensiva con objetivos de pérdida de peso, basada en el consumo de dieta mediterránea hipocalórica, promoción de actividad física y terapia conductual en la prevención de enfermedades cardiovasculares.
 
