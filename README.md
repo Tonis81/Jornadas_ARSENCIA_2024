@@ -20,7 +20,9 @@
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScIfY-1FIBzalcdYrARaMbFcnxCOlpydFOttYMIVB-W0YJmUg/viewform">Enlace inscripción</a></p>
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdyGG_DA9wiuElFUp80cyRSuWOf8m4h7CgVNSFPJQTzNLBPqQ/viewform">Registro envío comunicación</a></p>
   <p><a href="https://drive.google.com/drive/folders/1GMEf6Q1cIKK-5A3YU4VQiUWtfoz0FgbQ?usp=drive_link">Descarga plantillas</a></p>
+ <p><a href="https://drive.google.com/file/d/1L2PgHaPttw28QyT5s22T901AxFyK_RME/view?usp=drive_link">Descarga programa</a></p>
 </div>
+
 
 
 ## **Presentación**
